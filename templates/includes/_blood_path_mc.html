@@ -19,12 +19,12 @@
                     <label ><input type="radio" name="radioAnswer" onclick="myOtherFunction()" required>  {{ " -> ".join(option).lower() }}</label>
                     <p class="switch-me-on" style="display:none">
                         {% if option == question.blood_path %}
-                            This answer is <font color="green" size="5">correct</font>.
+                            <font color="green" size="5">Correct</font>
                         {% else %}
-                        This answer is <font color="red" size="3">incorrect</font>.
+                        <font color="red" size="3">Incorrect</font>:
                                 {% for wrong in question.wrong_paths %}
                                     {% if option == wrong.blood_path %}
-                                        This is actually the path to the <u>{{ wrong.subject.lower() }}</u>.
+                                        this is actually the path to the <u>{{ wrong.subject.lower() }}</u>
                                     {% endif %}
                                 {% endfor %}
                         {% endif %}
