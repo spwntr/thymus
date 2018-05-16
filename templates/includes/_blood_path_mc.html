@@ -1,0 +1,56 @@
+    <h1>{{ question.subject }}</h1>
+    <p>
+        {% set stem_id = range(4)|random %}
+        {% if stem_id == 0 %}
+            Imagine that you are a red blood cell speaking to another red blood cell. Choose the best directions for your friend
+        {% elif stem_id == 1 %}
+            Choose the physiologic path of blood
+        {% elif stem_id == 2 %}
+            Please select the path of a red blood cell
+        {% elif stem_id == 3 %}
+            Describe the path of normal blood flow
+        {% endif %}
+        from the chamber of the left ventricle to the <u>{{ question.subject.lower() }}</u>:
+    </p>
+    <div>
+        <ul class="list-group">
+            {% for option in question.randomized_options %}
+                <li class="list-group-item radio">
+                    <label ><input type="radio" name="radioAnswer" onclick="myOtherFunction()" required>  {{ " -> ".join(option).lower() }}</label>
+                    <p class="switch-me-on" style="display:none">
+                        {% if option == question.blood_path %}
+                            This answer is <font color="green" size="5">correct</font>.
+                        {% else %}
+                        This answer is <font color="red" size="3">incorrect</font>.
+                                {% for wrong in question.wrong_paths %}
+                                    {% if option == wrong.blood_path %}
+                                        This is actually the path to the <u>{{ wrong.subject.lower() }}</u>.
+                                    {% endif %}
+                                {% endfor %}
+                        {% endif %}
+                    </p>
+                </li>
+            {% endfor %}
+        </ul>
+    </div>
+    <div>
+        <button type="button" id="buttony" class="btn btn-outline-secondary btn-lg" onclick="myFunction()" disabled>Submit</button>
+    </div>
+    <script>
+function myFunction() {
+    var x = document.getElementsByClassName("switch-me-on");
+    for (var i = 0; i < x.length; i++) {
+        if (x[i].style.display === "none") {
+            x[i].style.display = "block";
+        } else {
+            x[i].style.display = "none";
+        }
+    }
+}
+function myOtherFunction() {
+    var x = document.getElementById("buttony");
+    if (x.disabled === true) {
+        x.disabled = false;
+    }
+}
+    </script>
