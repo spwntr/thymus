@@ -1,0 +1,5288 @@
+[
+    {
+        "id": 1,
+        "subject": "Stem of left temporal lobe",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Trunk of left internal carotid artery",
+            "Left internal carotid artery",
+            "Left anterior choroidal artery"
+        ]
+    },
+    {
+        "id": 2,
+        "subject": "Tongue",
+        "blood_path": [
+            "Aorta",
+            "Trunk of brachiocephalic artery",
+            "Brachiocephalic artery",
+            "Right common carotid artery",
+            "Right external carotid artery",
+            "Right lingual artery"
+        ]
+    },
+    {
+        "id": 3,
+        "subject": "Tongue",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Left common carotid artery",
+            "Left external carotid artery",
+            "Left facial artery",
+            "Left tonsillar artery"
+        ]
+    },
+    {
+        "id": 4,
+        "subject": "Tongue",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Left common carotid artery",
+            "Left external carotid artery",
+            "Left facial artery",
+            "Left ascending palatine artery"
+        ]
+    },
+    {
+        "id": 5,
+        "subject": "Tongue",
+        "blood_path": [
+            "Aorta",
+            "Trunk of brachiocephalic artery",
+            "Brachiocephalic artery",
+            "Right common carotid artery",
+            "Right external carotid artery",
+            "Right facial artery",
+            "Right ascending palatine artery"
+        ]
+    },
+    {
+        "id": 6,
+        "subject": "Tongue",
+        "blood_path": [
+            "Aorta",
+            "Trunk of brachiocephalic artery",
+            "Brachiocephalic artery",
+            "Right common carotid artery",
+            "Right external carotid artery",
+            "Right facial artery",
+            "Right tonsillar artery"
+        ]
+    },
+    {
+        "id": 7,
+        "subject": "Tongue",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Left common carotid artery",
+            "Left external carotid artery",
+            "Left lingual artery"
+        ]
+    },
+    {
+        "id": 8,
+        "subject": "Pulvinar",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left subclavian artery",
+            "Left subclavian artery",
+            "Left vertebral artery",
+            "Basilar artery",
+            "Posterior cerebral artery",
+            "Thalamogeniculate artery"
+        ]
+    },
+    {
+        "id": 9,
+        "subject": "Pulvinar",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left subclavian artery",
+            "Left subclavian artery",
+            "Left vertebral artery",
+            "Basilar artery",
+            "Posterior cerebral artery",
+            "Thalamoperforating artery"
+        ]
+    },
+    {
+        "id": 10,
+        "subject": "Pulvinar",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left subclavian artery",
+            "Left subclavian artery",
+            "Left vertebral artery",
+            "Basilar artery",
+            "Posterior cerebral artery",
+            "Posterior choroidal artery",
+            "Posterior lateral choroidal artery"
+        ]
+    },
+    {
+        "id": 11,
+        "subject": "Ventral posterior nucleus",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left subclavian artery",
+            "Left subclavian artery",
+            "Left vertebral artery",
+            "Basilar artery",
+            "Posterior cerebral artery",
+            "Thalamogeniculate artery"
+        ]
+    },
+    {
+        "id": 12,
+        "subject": "Centromedian nucleus",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left subclavian artery",
+            "Left subclavian artery",
+            "Left vertebral artery",
+            "Basilar artery",
+            "Posterior cerebral artery",
+            "Thalamogeniculate artery"
+        ]
+    },
+    {
+        "id": 13,
+        "subject": "Central medial nucleus",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left subclavian artery",
+            "Left subclavian artery",
+            "Left vertebral artery",
+            "Basilar artery",
+            "Posterior cerebral artery",
+            "Thalamogeniculate artery"
+        ]
+    },
+    {
+        "id": 14,
+        "subject": "Central lateral nucleus",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left subclavian artery",
+            "Left subclavian artery",
+            "Left vertebral artery",
+            "Basilar artery",
+            "Posterior cerebral artery",
+            "Thalamogeniculate artery"
+        ]
+    },
+    {
+        "id": 15,
+        "subject": "Thalamus",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left subclavian artery",
+            "Left subclavian artery",
+            "Left vertebral artery",
+            "Basilar artery",
+            "Posterior cerebral artery",
+            "Thalamogeniculate artery"
+        ]
+    },
+    {
+        "id": 16,
+        "subject": "Thalamus",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Left common carotid artery",
+            "Left internal carotid artery",
+            "Left middle cerebral artery",
+            "Cavernous branch of internal carotid artery",
+            "Posterior communicating artery",
+            "Thalamotuberal artery"
+        ]
+    },
+    {
+        "id": 17,
+        "subject": "Thalamus",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left subclavian artery",
+            "Left subclavian artery",
+            "Left vertebral artery",
+            "Basilar artery",
+            "Posterior cerebral artery",
+            "Posterior choroidal artery",
+            "Posterior lateral choroidal artery"
+        ]
+    },
+    {
+        "id": 18,
+        "subject": "Thalamus",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left subclavian artery",
+            "Left subclavian artery",
+            "Left vertebral artery",
+            "Basilar artery",
+            "Posterior cerebral artery",
+            "Thalamoperforating artery"
+        ]
+    },
+    {
+        "id": 19,
+        "subject": "Thalamus",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left subclavian artery",
+            "Left subclavian artery",
+            "Left vertebral artery",
+            "Basilar artery",
+            "Posterior cerebral artery",
+            "Posterior choroidal artery",
+            "Posterior medial choroidal artery"
+        ]
+    },
+    {
+        "id": 20,
+        "subject": "Lateral posterior nucleus",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left subclavian artery",
+            "Left subclavian artery",
+            "Left vertebral artery",
+            "Basilar artery",
+            "Posterior cerebral artery",
+            "Thalamogeniculate artery"
+        ]
+    },
+    {
+        "id": 21,
+        "subject": "Lateral posterior nucleus",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left subclavian artery",
+            "Left subclavian artery",
+            "Left vertebral artery",
+            "Basilar artery",
+            "Posterior cerebral artery",
+            "Thalamoperforating artery"
+        ]
+    },
+    {
+        "id": 22,
+        "subject": "Ventral lateral nucleus",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left subclavian artery",
+            "Left subclavian artery",
+            "Left vertebral artery",
+            "Basilar artery",
+            "Posterior cerebral artery",
+            "Thalamogeniculate artery"
+        ]
+    },
+    {
+        "id": 23,
+        "subject": "Parafascicular nucleus",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left subclavian artery",
+            "Left subclavian artery",
+            "Left vertebral artery",
+            "Basilar artery",
+            "Posterior cerebral artery",
+            "Thalamogeniculate artery"
+        ]
+    },
+    {
+        "id": 24,
+        "subject": "Central dorsal nucleus",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left subclavian artery",
+            "Left subclavian artery",
+            "Left vertebral artery",
+            "Basilar artery",
+            "Posterior cerebral artery",
+            "Thalamogeniculate artery"
+        ]
+    },
+    {
+        "id": 25,
+        "subject": "Paracentral nucleus",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left subclavian artery",
+            "Left subclavian artery",
+            "Left vertebral artery",
+            "Basilar artery",
+            "Posterior cerebral artery",
+            "Thalamogeniculate artery"
+        ]
+    },
+    {
+        "id": 26,
+        "subject": "Lateral geniculate body",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left subclavian artery",
+            "Left subclavian artery",
+            "Left vertebral artery",
+            "Basilar artery",
+            "Posterior cerebral artery",
+            "Posterior choroidal artery",
+            "Posterior lateral choroidal artery"
+        ]
+    },
+    {
+        "id": 27,
+        "subject": "Lateral geniculate body",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Left common carotid artery",
+            "Left internal carotid artery",
+            "Left middle cerebral artery",
+            "Cavernous branch of internal carotid artery",
+            "Anterior choroidal artery",
+            "Branch of anterior choroidal artery to lateral geniculate body"
+        ]
+    },
+    {
+        "id": 28,
+        "subject": "Lateral geniculate body",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left subclavian artery",
+            "Left subclavian artery",
+            "Left vertebral artery",
+            "Basilar artery",
+            "Posterior cerebral artery",
+            "Thalamogeniculate artery"
+        ]
+    },
+    {
+        "id": 29,
+        "subject": "Medial geniculate body",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left subclavian artery",
+            "Left subclavian artery",
+            "Left vertebral artery",
+            "Basilar artery",
+            "Posterior cerebral artery",
+            "Thalamogeniculate artery"
+        ]
+    },
+    {
+        "id": 30,
+        "subject": "Lateral wall of left ventricle",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left coronary artery",
+            "Left coronary artery",
+            "Circumflex branch of left coronary artery",
+            "Posterior ventricular branch of circumflex coronary artery"
+        ]
+    },
+    {
+        "id": 31,
+        "subject": "Lateral wall of left ventricle",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left coronary artery",
+            "Left coronary artery",
+            "Circumflex branch of left coronary artery",
+            "Left marginal artery"
+        ]
+    },
+    {
+        "id": 32,
+        "subject": "Lateral wall of left ventricle",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left coronary artery",
+            "Left coronary artery",
+            "Circumflex branch of left coronary artery",
+            "Anterior ventricular branch of circumflex coronary artery"
+        ]
+    },
+    {
+        "id": 33,
+        "subject": "Lateral wall of left ventricle",
+        "blood_path": [
+            "Aorta",
+            "Systemic arterial tree of male human body",
+            "Right coronary artery",
+            "Posterior interventricular branch of right coronary artery"
+        ]
+    },
+    {
+        "id": 34,
+        "subject": "Free wall of left ventricle",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left coronary artery",
+            "Left coronary artery",
+            "Anterior interventricular branch of left coronary artery",
+            "Diagonal branch of anterior descending branch of left coronary artery"
+        ]
+    },
+    {
+        "id": 35,
+        "subject": "Free wall of left ventricle",
+        "blood_path": [
+            "Aorta",
+            "Systemic arterial tree of male human body",
+            "Right coronary artery",
+            "Marginal branch of right coronary artery"
+        ]
+    },
+    {
+        "id": 36,
+        "subject": "Free wall of left ventricle",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left coronary artery",
+            "Left coronary artery",
+            "Circumflex branch of left coronary artery",
+            "Anterior ventricular branch of circumflex coronary artery"
+        ]
+    },
+    {
+        "id": 37,
+        "subject": "Free wall of left ventricle",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left coronary artery",
+            "Left coronary artery",
+            "Circumflex branch of left coronary artery",
+            "Left marginal artery"
+        ]
+    },
+    {
+        "id": 38,
+        "subject": "Free wall of left ventricle",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left coronary artery",
+            "Left coronary artery",
+            "Anterior interventricular branch of left coronary artery",
+            "Posterior septal branch of anterior interventricular artery"
+        ]
+    },
+    {
+        "id": 39,
+        "subject": "Free wall of left ventricle",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left coronary artery",
+            "Left coronary artery",
+            "Circumflex branch of left coronary artery",
+            "Atrial branch of circumflex coronary artery"
+        ]
+    },
+    {
+        "id": 40,
+        "subject": "Free wall of left ventricle",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left coronary artery",
+            "Left coronary artery",
+            "Circumflex branch of left coronary artery",
+            "Posterior ventricular branch of circumflex coronary artery"
+        ]
+    },
+    {
+        "id": 41,
+        "subject": "Free wall of left ventricle",
+        "blood_path": [
+            "Aorta",
+            "Systemic arterial tree of male human body",
+            "Right coronary artery",
+            "Right posterolateral branch of right coronary artery"
+        ]
+    },
+    {
+        "id": 42,
+        "subject": "Free wall of left ventricle",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left coronary artery",
+            "Left coronary artery",
+            "Anterior interventricular branch of left coronary artery",
+            "Left anterior branch of anterior interventricular branch of left coronary artery"
+        ]
+    },
+    {
+        "id": 43,
+        "subject": "Free wall of left ventricle",
+        "blood_path": [
+            "Aorta",
+            "Systemic arterial tree of male human body",
+            "Right coronary artery",
+            "Posterior interventricular branch of right coronary artery"
+        ]
+    },
+    {
+        "id": 44,
+        "subject": "Vestibular nuclear complex",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left subclavian artery",
+            "Left subclavian artery",
+            "Left vertebral artery",
+            "Basilar artery",
+            "Anterior inferior cerebellar artery",
+            "Labyrinthine artery",
+            "Anterior vestibular artery"
+        ]
+    },
+    {
+        "id": 45,
+        "subject": "Vestibular nuclear complex",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left subclavian artery",
+            "Left subclavian artery",
+            "Left vertebral artery",
+            "Basilar artery",
+            "Anterior inferior cerebellar artery",
+            "Labyrinthine artery",
+            "Common cochlear artery"
+        ]
+    },
+    {
+        "id": 46,
+        "subject": "Fundus of urinary bladder",
+        "blood_path": [
+            "Aorta",
+            "Trunk of right common iliac artery",
+            "Right common iliac artery",
+            "Right internal iliac artery",
+            "Anterior division of right internal iliac artery",
+            "Right inferior vesical artery"
+        ]
+    },
+    {
+        "id": 47,
+        "subject": "Fundus of urinary bladder",
+        "blood_path": [
+            "Aorta",
+            "Systemic arterial tree of female human body",
+            "Common iliac artery",
+            "Internal iliac artery",
+            "Anterior division of internal iliac artery",
+            "Inferior vesical artery"
+        ]
+    },
+    {
+        "id": 48,
+        "subject": "Fundus of urinary bladder",
+        "blood_path": [
+            "Aorta",
+            "Systemic arterial tree of male human body",
+            "Left common iliac artery",
+            "Left internal iliac artery",
+            "Anterior division of left internal iliac artery",
+            "Left inferior vesical artery",
+            "Fundal part of left inferior vesical artery"
+        ]
+    },
+    {
+        "id": 49,
+        "subject": "Fundus of urinary bladder",
+        "blood_path": [
+            "Aorta",
+            "Systemic arterial tree of female human body",
+            "Common iliac artery",
+            "Internal iliac artery",
+            "Anterior division of internal iliac artery",
+            "Inferior vesical artery",
+            "Fundal part of inferior vesical artery"
+        ]
+    },
+    {
+        "id": 50,
+        "subject": "Fundus of urinary bladder",
+        "blood_path": [
+            "Aorta",
+            "Systemic arterial tree of male human body",
+            "Left common iliac artery",
+            "Left internal iliac artery",
+            "Anterior division of left internal iliac artery",
+            "Left inferior vesical artery"
+        ]
+    },
+    {
+        "id": 51,
+        "subject": "Fundus of urinary bladder",
+        "blood_path": [
+            "Aorta",
+            "Trunk of right common iliac artery",
+            "Right common iliac artery",
+            "Right internal iliac artery",
+            "Anterior division of right internal iliac artery",
+            "Right inferior vesical artery",
+            "Fundal part of right inferior vesical artery"
+        ]
+    },
+    {
+        "id": 52,
+        "subject": "Stomach",
+        "blood_path": [
+            "Aorta",
+            "Celiac trunk",
+            "Celiac artery",
+            "Splenic artery",
+            "Posterior gastric artery"
+        ]
+    },
+    {
+        "id": 53,
+        "subject": "Stomach",
+        "blood_path": [
+            "Aorta",
+            "Celiac trunk",
+            "Celiac artery",
+            "Splenic artery",
+            "Short gastric artery"
+        ]
+    },
+    {
+        "id": 54,
+        "subject": "Stomach",
+        "blood_path": [
+            "Aorta",
+            "Celiac trunk",
+            "Celiac artery",
+            "Splenic artery",
+            "Left gastro-epiploic artery",
+            "Gastric branch of left gastro-epiploic artery"
+        ]
+    },
+    {
+        "id": 55,
+        "subject": "Stomach",
+        "blood_path": [
+            "Aorta",
+            "Celiac trunk",
+            "Celiac artery",
+            "Common hepatic artery",
+            "Gastroduodenal artery",
+            "Right gastro-epiploic artery",
+            "Gastric branch of right gastro-epiploic artery"
+        ]
+    },
+    {
+        "id": 56,
+        "subject": "Stomach",
+        "blood_path": [
+            "Aorta",
+            "Celiac trunk",
+            "Celiac artery",
+            "Left gastric artery"
+        ]
+    },
+    {
+        "id": 57,
+        "subject": "Stomach",
+        "blood_path": [
+            "Aorta",
+            "Celiac trunk",
+            "Celiac artery",
+            "Common hepatic artery",
+            "Right gastric artery"
+        ]
+    },
+    {
+        "id": 58,
+        "subject": "Superior parathyroid gland",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Left common carotid artery",
+            "Left internal carotid artery",
+            "Left middle cerebral artery",
+            "Cavernous branch of internal carotid artery",
+            "Internal carotid artery",
+            "Common carotid artery",
+            "External carotid artery",
+            "Superior thyroid artery"
+        ]
+    },
+    {
+        "id": 59,
+        "subject": "Parathyroid gland",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Left common carotid artery",
+            "Left internal carotid artery",
+            "Left middle cerebral artery",
+            "Cavernous branch of internal carotid artery",
+            "Internal carotid artery",
+            "Common carotid artery",
+            "External carotid artery",
+            "Superior thyroid artery"
+        ]
+    },
+    {
+        "id": 60,
+        "subject": "Parathyroid gland",
+        "blood_path": [
+            "Aorta",
+            "Arch of aorta",
+            "Trunk of subclavian artery",
+            "Subclavian artery",
+            "Thyrocervical artery",
+            "Inferior thyroid artery"
+        ]
+    },
+    {
+        "id": 61,
+        "subject": "Left ureter",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left renal artery",
+            "Left renal artery",
+            "Ureteric segment of left renal artery"
+        ]
+    },
+    {
+        "id": 62,
+        "subject": "Left ureter",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left testicular artery",
+            "Left testicular artery"
+        ]
+    },
+    {
+        "id": 63,
+        "subject": "Left ureter",
+        "blood_path": [
+            "Aorta",
+            "Systemic arterial tree of male human body",
+            "Left common iliac artery",
+            "Left internal iliac artery",
+            "Anterior division of left internal iliac artery",
+            "Left inferior vesical artery"
+        ]
+    },
+    {
+        "id": 64,
+        "subject": "Left ureter",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left ovarian artery",
+            "Left ovarian artery"
+        ]
+    },
+    {
+        "id": 65,
+        "subject": "Left ureter",
+        "blood_path": [
+            "Aorta",
+            "Systemic arterial tree of male human body",
+            "Left common iliac artery",
+            "Left internal iliac artery",
+            "Anterior division of left internal iliac artery",
+            "Left inferior vesical artery",
+            "Ureteral part of left inferior vesical artery"
+        ]
+    },
+    {
+        "id": 66,
+        "subject": "Left ureter",
+        "blood_path": [
+            "Aorta",
+            "Systemic arterial tree of male human body",
+            "Left common iliac artery",
+            "Left internal iliac artery",
+            "Anterior division of left internal iliac artery",
+            "Left uterine artery",
+            "Ureteral part of left uterine artery"
+        ]
+    },
+    {
+        "id": 67,
+        "subject": "Lateral globus pallidus",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Left common carotid artery",
+            "Left internal carotid artery",
+            "Left middle cerebral artery",
+            "Cavernous branch of internal carotid artery",
+            "Middle cerebral artery",
+            "Medial striate branch of middle cerebral artery"
+        ]
+    },
+    {
+        "id": 68,
+        "subject": "Lateral globus pallidus",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Left common carotid artery",
+            "Left internal carotid artery",
+            "Left middle cerebral artery",
+            "Cavernous branch of internal carotid artery",
+            "Middle cerebral artery",
+            "Proximal lateral striate branch of middle cerebral artery"
+        ]
+    },
+    {
+        "id": 69,
+        "subject": "Lateral globus pallidus",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Left common carotid artery",
+            "Left internal carotid artery",
+            "Left middle cerebral artery",
+            "Cavernous branch of internal carotid artery",
+            "Middle cerebral artery",
+            "Distal lateral striate branch of middle cerebral artery"
+        ]
+    },
+    {
+        "id": 70,
+        "subject": "Left lung",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left second bronchial artery",
+            "Left second bronchial artery"
+        ]
+    },
+    {
+        "id": 71,
+        "subject": "Left lung",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left first bronchial artery",
+            "Left first bronchial artery"
+        ]
+    },
+    {
+        "id": 72,
+        "subject": "Upper lobe of left lung",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left first bronchial artery",
+            "Left first bronchial artery"
+        ]
+    },
+    {
+        "id": 73,
+        "subject": "Right greater vestibular gland",
+        "blood_path": [
+            "Aorta",
+            "Trunk of right common iliac artery",
+            "Right common iliac artery",
+            "Right external iliac artery",
+            "Right femoral artery",
+            "Right superficial external pudendal artery",
+            "Labial branch of right superficial external pudendal artery"
+        ]
+    },
+    {
+        "id": 74,
+        "subject": "Hypothalamus",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Left common carotid artery",
+            "Left internal carotid artery",
+            "Left middle cerebral artery",
+            "Cavernous branch of internal carotid artery",
+            "Anterior choroidal artery",
+            "Branch of anterior choroidal artery to hypothalamus"
+        ]
+    },
+    {
+        "id": 75,
+        "subject": "Hypothalamus",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Left common carotid artery",
+            "Left internal carotid artery",
+            "Left middle cerebral artery",
+            "Cavernous branch of internal carotid artery",
+            "Posterior communicating artery",
+            "Hypothalamic branch of posterior communicating artery"
+        ]
+    },
+    {
+        "id": 76,
+        "subject": "Hypothalamus",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left subclavian artery",
+            "Left subclavian artery",
+            "Left vertebral artery",
+            "Basilar artery",
+            "Posterior cerebral artery",
+            "Thalamoperforating artery"
+        ]
+    },
+    {
+        "id": 77,
+        "subject": "Paraventricular nucleus of thalamus",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left subclavian artery",
+            "Left subclavian artery",
+            "Left vertebral artery",
+            "Basilar artery",
+            "Posterior cerebral artery",
+            "Thalamoperforating artery"
+        ]
+    },
+    {
+        "id": 78,
+        "subject": "Lateral dorsal nucleus",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left subclavian artery",
+            "Left subclavian artery",
+            "Left vertebral artery",
+            "Basilar artery",
+            "Posterior cerebral artery",
+            "Thalamoperforating artery"
+        ]
+    },
+    {
+        "id": 79,
+        "subject": "Subfascicular nucleus",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left subclavian artery",
+            "Left subclavian artery",
+            "Left vertebral artery",
+            "Basilar artery",
+            "Posterior cerebral artery",
+            "Thalamoperforating artery"
+        ]
+    },
+    {
+        "id": 80,
+        "subject": "Paratenial nucleus",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left subclavian artery",
+            "Left subclavian artery",
+            "Left vertebral artery",
+            "Basilar artery",
+            "Posterior cerebral artery",
+            "Thalamoperforating artery"
+        ]
+    },
+    {
+        "id": 81,
+        "subject": "Red nucleus",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left subclavian artery",
+            "Left subclavian artery",
+            "Left vertebral artery",
+            "Basilar artery",
+            "Posterior cerebral artery",
+            "Thalamoperforating artery"
+        ]
+    },
+    {
+        "id": 82,
+        "subject": "Red nucleus",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Left common carotid artery",
+            "Left internal carotid artery",
+            "Left middle cerebral artery",
+            "Cavernous branch of internal carotid artery",
+            "Anterior choroidal artery",
+            "Branch of anterior choroidal artery to red nucleus"
+        ]
+    },
+    {
+        "id": 83,
+        "subject": "Ventral thalamus",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left subclavian artery",
+            "Left subclavian artery",
+            "Left vertebral artery",
+            "Basilar artery",
+            "Posterior cerebral artery",
+            "Thalamoperforating artery"
+        ]
+    },
+    {
+        "id": 84,
+        "subject": "Medial nuclear group of thalamus",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left subclavian artery",
+            "Left subclavian artery",
+            "Left vertebral artery",
+            "Basilar artery",
+            "Posterior cerebral artery",
+            "Posterior choroidal artery",
+            "Posterior lateral choroidal artery"
+        ]
+    },
+    {
+        "id": 85,
+        "subject": "Medial nuclear group of thalamus",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left subclavian artery",
+            "Left subclavian artery",
+            "Left vertebral artery",
+            "Basilar artery",
+            "Posterior cerebral artery",
+            "Thalamoperforating artery"
+        ]
+    },
+    {
+        "id": 86,
+        "subject": "Medial nuclear group of thalamus",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left subclavian artery",
+            "Left subclavian artery",
+            "Left vertebral artery",
+            "Basilar artery",
+            "Posterior cerebral artery",
+            "Posterior choroidal artery",
+            "Posterior medial choroidal artery"
+        ]
+    },
+    {
+        "id": 87,
+        "subject": "Reuniens nucleus",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left subclavian artery",
+            "Left subclavian artery",
+            "Left vertebral artery",
+            "Basilar artery",
+            "Posterior cerebral artery",
+            "Thalamoperforating artery"
+        ]
+    },
+    {
+        "id": 88,
+        "subject": "Rhomboidal nucleus",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left subclavian artery",
+            "Left subclavian artery",
+            "Left vertebral artery",
+            "Basilar artery",
+            "Posterior cerebral artery",
+            "Thalamoperforating artery"
+        ]
+    },
+    {
+        "id": 89,
+        "subject": "Supramarginal gyrus",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Left common carotid artery",
+            "Left internal carotid artery",
+            "Left middle cerebral artery",
+            "Cavernous branch of internal carotid artery",
+            "Middle cerebral artery",
+            "Anterior parietal artery"
+        ]
+    },
+    {
+        "id": 90,
+        "subject": "Supramarginal gyrus",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Left common carotid artery",
+            "Left internal carotid artery",
+            "Left middle cerebral artery",
+            "Cavernous branch of internal carotid artery",
+            "Middle cerebral artery",
+            "Artery of postcentral sulcus"
+        ]
+    },
+    {
+        "id": 91,
+        "subject": "Superior parietal lobule",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Left common carotid artery",
+            "Left internal carotid artery",
+            "Left middle cerebral artery",
+            "Cavernous branch of internal carotid artery",
+            "Middle cerebral artery",
+            "Anterior parietal artery"
+        ]
+    },
+    {
+        "id": 92,
+        "subject": "Superior parietal lobule",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Left common carotid artery",
+            "Left internal carotid artery",
+            "Left middle cerebral artery",
+            "Cavernous branch of internal carotid artery",
+            "Middle cerebral artery",
+            "Artery of postcentral sulcus"
+        ]
+    },
+    {
+        "id": 93,
+        "subject": "Superior parietal lobule",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left subclavian artery",
+            "Left subclavian artery",
+            "Left vertebral artery",
+            "Basilar artery",
+            "Posterior cerebral artery",
+            "Medial occipital artery",
+            "Parietal occipital artery"
+        ]
+    },
+    {
+        "id": 94,
+        "subject": "Caudate nucleus",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Left common carotid artery",
+            "Left internal carotid artery",
+            "Left middle cerebral artery",
+            "Cavernous branch of internal carotid artery",
+            "Anterior choroidal artery",
+            "Branch of anterior choroidal artery to tail of caudate nucleus"
+        ]
+    },
+    {
+        "id": 95,
+        "subject": "Caudate nucleus",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Left common carotid artery",
+            "Left internal carotid artery",
+            "Left middle cerebral artery",
+            "Cavernous branch of internal carotid artery",
+            "Anterior cerebral artery",
+            "Proximal medial striate artery"
+        ]
+    },
+    {
+        "id": 96,
+        "subject": "Middle frontal gyrus",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Left common carotid artery",
+            "Left internal carotid artery",
+            "Left middle cerebral artery",
+            "Cavernous branch of internal carotid artery",
+            "Middle cerebral artery",
+            "Artery of precentral sulcus"
+        ]
+    },
+    {
+        "id": 97,
+        "subject": "Superior frontal gyrus",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Left common carotid artery",
+            "Left internal carotid artery",
+            "Left middle cerebral artery",
+            "Cavernous branch of internal carotid artery",
+            "Middle cerebral artery",
+            "Artery of precentral sulcus"
+        ]
+    },
+    {
+        "id": 98,
+        "subject": "Superior frontal gyrus",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Left common carotid artery",
+            "Left internal carotid artery",
+            "Left middle cerebral artery",
+            "Cavernous branch of internal carotid artery",
+            "Anterior cerebral artery",
+            "Polar frontal artery"
+        ]
+    },
+    {
+        "id": 99,
+        "subject": "Superior frontal gyrus",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Left common carotid artery",
+            "Left internal carotid artery",
+            "Left middle cerebral artery",
+            "Cavernous branch of internal carotid artery",
+            "Anterior cerebral artery",
+            "Callosomarginal artery"
+        ]
+    },
+    {
+        "id": 100,
+        "subject": "Inferior frontal gyrus",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Left common carotid artery",
+            "Left internal carotid artery",
+            "Left middle cerebral artery",
+            "Cavernous branch of internal carotid artery",
+            "Middle cerebral artery",
+            "Artery of precentral sulcus"
+        ]
+    },
+    {
+        "id": 101,
+        "subject": "Pituitary gland",
+        "blood_path": [
+            "Aorta",
+            "Trunk of brachiocephalic artery",
+            "Brachiocephalic artery",
+            "Right common carotid artery",
+            "Right internal carotid artery",
+            "Right superior hypophyseal artery"
+        ]
+    },
+    {
+        "id": 102,
+        "subject": "Pituitary gland",
+        "blood_path": [
+            "Aorta",
+            "Trunk of brachiocephalic artery",
+            "Brachiocephalic artery",
+            "Right common carotid artery",
+            "Right internal carotid artery",
+            "Right inferior hypophyseal artery",
+            "Medial branch of right inferior hypophyseal artery"
+        ]
+    },
+    {
+        "id": 103,
+        "subject": "Pituitary gland",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Trunk of left internal carotid artery",
+            "Left internal carotid artery",
+            "Left superior hypophyseal artery"
+        ]
+    },
+    {
+        "id": 104,
+        "subject": "Pituitary gland",
+        "blood_path": [
+            "Aorta",
+            "Trunk of brachiocephalic artery",
+            "Brachiocephalic artery",
+            "Right common carotid artery",
+            "Right internal carotid artery",
+            "Right inferior hypophyseal artery",
+            "Lateral branch of right inferior hypophyseal artery"
+        ]
+    },
+    {
+        "id": 105,
+        "subject": "Pituitary gland",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Trunk of left internal carotid artery",
+            "Left internal carotid artery",
+            "Left inferior hypophyseal artery",
+            "Medial branch of left inferior hypophyseal artery"
+        ]
+    },
+    {
+        "id": 106,
+        "subject": "Pituitary gland",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Trunk of left internal carotid artery",
+            "Left internal carotid artery",
+            "Left inferior hypophyseal artery",
+            "Lateral branch of left inferior hypophyseal artery"
+        ]
+    },
+    {
+        "id": 107,
+        "subject": "Right testis",
+        "blood_path": [
+            "Aorta",
+            "Trunk of right testicular artery",
+            "Right testicular artery"
+        ]
+    },
+    {
+        "id": 108,
+        "subject": "Right ureter",
+        "blood_path": [
+            "Aorta",
+            "Trunk of right testicular artery",
+            "Right testicular artery"
+        ]
+    },
+    {
+        "id": 109,
+        "subject": "Right ureter",
+        "blood_path": [
+            "Aorta",
+            "Trunk of right ovarian artery",
+            "Right ovarian artery"
+        ]
+    },
+    {
+        "id": 110,
+        "subject": "Right ureter",
+        "blood_path": [
+            "Aorta",
+            "Trunk of right common iliac artery",
+            "Right common iliac artery",
+            "Right internal iliac artery",
+            "Anterior division of right internal iliac artery",
+            "Right inferior vesical artery"
+        ]
+    },
+    {
+        "id": 111,
+        "subject": "Right ureter",
+        "blood_path": [
+            "Aorta",
+            "Trunk of right common iliac artery",
+            "Right common iliac artery",
+            "Right internal iliac artery",
+            "Anterior division of right internal iliac artery",
+            "Right inferior vesical artery",
+            "Ureteral part of right inferior vesical artery"
+        ]
+    },
+    {
+        "id": 112,
+        "subject": "Right ureter",
+        "blood_path": [
+            "Aorta",
+            "Trunk of right renal artery",
+            "Right renal artery",
+            "Ureteric segment of right renal artery"
+        ]
+    },
+    {
+        "id": 113,
+        "subject": "Right ureter",
+        "blood_path": [
+            "Aorta",
+            "Trunk of right common iliac artery",
+            "Right common iliac artery",
+            "Right internal iliac artery",
+            "Anterior division of right internal iliac artery",
+            "Right uterine artery",
+            "Ureteral part of right uterine artery"
+        ]
+    },
+    {
+        "id": 114,
+        "subject": "Medulla oblongata",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left subclavian artery",
+            "Left subclavian artery",
+            "Left vertebral artery",
+            "Basilar artery",
+            "Anterior inferior cerebellar artery",
+            "Branch of anterior inferior cerebellar artery to medulla oblongata"
+        ]
+    },
+    {
+        "id": 115,
+        "subject": "Spleen",
+        "blood_path": [
+            "Aorta",
+            "Celiac trunk",
+            "Celiac artery",
+            "Splenic artery",
+            "Segmental branch of splenic artery"
+        ]
+    },
+    {
+        "id": 116,
+        "subject": "Spleen",
+        "blood_path": [
+            "Aorta",
+            "Celiac trunk",
+            "Celiac artery",
+            "Splenic artery",
+            "Hilar branch of splenic artery"
+        ]
+    },
+    {
+        "id": 117,
+        "subject": "Genu of internal capsule",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Left common carotid artery",
+            "Left internal carotid artery",
+            "Left middle cerebral artery",
+            "Cavernous branch of internal carotid artery",
+            "Anterior choroidal artery",
+            "Branch of anterior choroidal artery to genu of internal capsule"
+        ]
+    },
+    {
+        "id": 118,
+        "subject": "Left side of upper lip",
+        "blood_path": [
+            "Aorta",
+            "Systemic arterial tree of male human body",
+            "Left common carotid artery",
+            "Left external carotid artery",
+            "Left facial artery",
+            "Left superior labial artery",
+            "Left superior labial artery proper"
+        ]
+    },
+    {
+        "id": 119,
+        "subject": "Uterus",
+        "blood_path": [
+            "Aorta",
+            "Systemic arterial tree of male human body",
+            "Left common iliac artery",
+            "Left internal iliac artery",
+            "Anterior division of left internal iliac artery",
+            "Left uterine artery"
+        ]
+    },
+    {
+        "id": 120,
+        "subject": "Uterus",
+        "blood_path": [
+            "Aorta",
+            "Trunk of right common iliac artery",
+            "Right common iliac artery",
+            "Right internal iliac artery",
+            "Anterior division of right internal iliac artery",
+            "Right uterine artery"
+        ]
+    },
+    {
+        "id": 121,
+        "subject": "Gallbladder",
+        "blood_path": [
+            "Aorta",
+            "Celiac trunk",
+            "Celiac artery",
+            "Common hepatic artery",
+            "Hepatic artery proper",
+            "Right hepatic artery",
+            "Cystic artery",
+            "Deep branch of cystic artery"
+        ]
+    },
+    {
+        "id": 122,
+        "subject": "Gallbladder",
+        "blood_path": [
+            "Aorta",
+            "Celiac trunk",
+            "Celiac artery",
+            "Common hepatic artery",
+            "Gastroduodenal artery",
+            "Posterior superior pancreaticoduodenal artery"
+        ]
+    },
+    {
+        "id": 123,
+        "subject": "Gallbladder",
+        "blood_path": [
+            "Aorta",
+            "Celiac trunk",
+            "Celiac artery",
+            "Common hepatic artery",
+            "Hepatic artery proper",
+            "Right hepatic artery",
+            "Cystic artery",
+            "Superficial branch of cystic artery"
+        ]
+    },
+    {
+        "id": 124,
+        "subject": "Left testis",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left testicular artery",
+            "Left testicular artery"
+        ]
+    },
+    {
+        "id": 125,
+        "subject": "Large intestine",
+        "blood_path": [
+            "Aorta",
+            "Trunk of right common iliac artery",
+            "Right common iliac artery",
+            "Right internal iliac artery",
+            "Anterior division of right internal iliac artery",
+            "Right middle rectal artery"
+        ]
+    },
+    {
+        "id": 126,
+        "subject": "Large intestine",
+        "blood_path": [
+            "Aorta",
+            "Trunk of superior mesenteric artery",
+            "Superior mesenteric artery",
+            "Middle colic artery"
+        ]
+    },
+    {
+        "id": 127,
+        "subject": "Large intestine",
+        "blood_path": [
+            "Aorta",
+            "Trunk of superior mesenteric artery",
+            "Superior mesenteric artery",
+            "Ileocolic artery",
+            "Inferior branch of ileocolic artery"
+        ]
+    },
+    {
+        "id": 128,
+        "subject": "Large intestine",
+        "blood_path": [
+            "Aorta",
+            "Trunk of superior mesenteric artery",
+            "Superior mesenteric artery",
+            "Right colic artery"
+        ]
+    },
+    {
+        "id": 129,
+        "subject": "Large intestine",
+        "blood_path": [
+            "Aorta",
+            "Trunk of inferior mesenteric artery",
+            "Inferior mesenteric artery"
+        ]
+    },
+    {
+        "id": 130,
+        "subject": "Large intestine",
+        "blood_path": [
+            "Aorta",
+            "Trunk of median sacral artery",
+            "Median sacral artery"
+        ]
+    },
+    {
+        "id": 131,
+        "subject": "Large intestine",
+        "blood_path": [
+            "Aorta",
+            "Systemic arterial tree of male human body",
+            "Left common iliac artery",
+            "Left internal iliac artery",
+            "Anterior division of left internal iliac artery",
+            "Left middle rectal artery"
+        ]
+    },
+    {
+        "id": 132,
+        "subject": "Large intestine",
+        "blood_path": [
+            "Aorta",
+            "Trunk of right common iliac artery",
+            "Right common iliac artery",
+            "Right internal iliac artery",
+            "Anterior division of right internal iliac artery",
+            "Right internal pudendal artery",
+            "Right inferior rectal artery"
+        ]
+    },
+    {
+        "id": 133,
+        "subject": "Large intestine",
+        "blood_path": [
+            "Aorta",
+            "Trunk of superior mesenteric artery",
+            "Superior mesenteric artery",
+            "Right flexural artery"
+        ]
+    },
+    {
+        "id": 134,
+        "subject": "Large intestine",
+        "blood_path": [
+            "Aorta",
+            "Systemic arterial tree of male human body",
+            "Left common iliac artery",
+            "Left internal iliac artery",
+            "Anterior division of left internal iliac artery",
+            "Left internal pudendal artery",
+            "Left inferior rectal artery"
+        ]
+    },
+    {
+        "id": 135,
+        "subject": "Medial olfactory gyrus",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Left common carotid artery",
+            "Left internal carotid artery",
+            "Left middle cerebral artery",
+            "Cavernous branch of internal carotid artery",
+            "Middle cerebral artery",
+            "Distal lateral striate branch of middle cerebral artery"
+        ]
+    },
+    {
+        "id": 136,
+        "subject": "Anterior commissure",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Left common carotid artery",
+            "Left internal carotid artery",
+            "Left middle cerebral artery",
+            "Cavernous branch of internal carotid artery",
+            "Middle cerebral artery",
+            "Distal lateral striate branch of middle cerebral artery"
+        ]
+    },
+    {
+        "id": 137,
+        "subject": "Anterior commissure",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Left common carotid artery",
+            "Left internal carotid artery",
+            "Left middle cerebral artery",
+            "Cavernous branch of internal carotid artery",
+            "Middle cerebral artery",
+            "Proximal lateral striate branch of middle cerebral artery"
+        ]
+    },
+    {
+        "id": 138,
+        "subject": "Anterior commissure",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Left common carotid artery",
+            "Left internal carotid artery",
+            "Left anterior cerebral artery",
+            "Anterior communicating artery",
+            "Median commissural artery"
+        ]
+    },
+    {
+        "id": 139,
+        "subject": "Substantia innominata",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Left common carotid artery",
+            "Left internal carotid artery",
+            "Left middle cerebral artery",
+            "Cavernous branch of internal carotid artery",
+            "Middle cerebral artery",
+            "Proximal lateral striate branch of middle cerebral artery"
+        ]
+    },
+    {
+        "id": 140,
+        "subject": "Substantia innominata",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Left common carotid artery",
+            "Left internal carotid artery",
+            "Left middle cerebral artery",
+            "Cavernous branch of internal carotid artery",
+            "Middle cerebral artery",
+            "Distal lateral striate branch of middle cerebral artery"
+        ]
+    },
+    {
+        "id": 141,
+        "subject": "Substantia innominata",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Left common carotid artery",
+            "Left internal carotid artery",
+            "Left middle cerebral artery",
+            "Cavernous branch of internal carotid artery",
+            "Anterior cerebral artery",
+            "Proximal medial striate artery"
+        ]
+    },
+    {
+        "id": 142,
+        "subject": "Internal capsule",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Left common carotid artery",
+            "Left internal carotid artery",
+            "Left middle cerebral artery",
+            "Cavernous branch of internal carotid artery",
+            "Anterior cerebral artery",
+            "Distal medial striate artery"
+        ]
+    },
+    {
+        "id": 143,
+        "subject": "Internal capsule",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Left common carotid artery",
+            "Left internal carotid artery",
+            "Left middle cerebral artery",
+            "Cavernous branch of internal carotid artery",
+            "Middle cerebral artery",
+            "Distal lateral striate branch of middle cerebral artery"
+        ]
+    },
+    {
+        "id": 144,
+        "subject": "Internal capsule",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Left common carotid artery",
+            "Left internal carotid artery",
+            "Left middle cerebral artery",
+            "Cavernous branch of internal carotid artery",
+            "Middle cerebral artery",
+            "Proximal lateral striate branch of middle cerebral artery"
+        ]
+    },
+    {
+        "id": 145,
+        "subject": "Putamen",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Left common carotid artery",
+            "Left internal carotid artery",
+            "Left middle cerebral artery",
+            "Cavernous branch of internal carotid artery",
+            "Anterior cerebral artery",
+            "Proximal medial striate artery"
+        ]
+    },
+    {
+        "id": 146,
+        "subject": "Putamen",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Left common carotid artery",
+            "Left internal carotid artery",
+            "Left middle cerebral artery",
+            "Cavernous branch of internal carotid artery",
+            "Middle cerebral artery",
+            "Proximal lateral striate branch of middle cerebral artery"
+        ]
+    },
+    {
+        "id": 147,
+        "subject": "Putamen",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Left common carotid artery",
+            "Left internal carotid artery",
+            "Left middle cerebral artery",
+            "Cavernous branch of internal carotid artery",
+            "Middle cerebral artery",
+            "Anterolateral central branch of middle cerebral artery"
+        ]
+    },
+    {
+        "id": 148,
+        "subject": "Putamen",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Left common carotid artery",
+            "Left internal carotid artery",
+            "Left middle cerebral artery",
+            "Cavernous branch of internal carotid artery",
+            "Middle cerebral artery",
+            "Distal lateral striate branch of middle cerebral artery"
+        ]
+    },
+    {
+        "id": 149,
+        "subject": "Putamen",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Left common carotid artery",
+            "Left internal carotid artery",
+            "Left middle cerebral artery",
+            "Cavernous branch of internal carotid artery",
+            "Anterior cerebral artery",
+            "Distal medial striate artery"
+        ]
+    },
+    {
+        "id": 150,
+        "subject": "Head of caudate nucleus",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Left common carotid artery",
+            "Left internal carotid artery",
+            "Left middle cerebral artery",
+            "Cavernous branch of internal carotid artery",
+            "Anterior cerebral artery",
+            "Distal medial striate artery"
+        ]
+    },
+    {
+        "id": 151,
+        "subject": "Head of caudate nucleus",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Left common carotid artery",
+            "Left internal carotid artery",
+            "Left middle cerebral artery",
+            "Cavernous branch of internal carotid artery",
+            "Middle cerebral artery",
+            "Proximal lateral striate branch of middle cerebral artery"
+        ]
+    },
+    {
+        "id": 152,
+        "subject": "Head of caudate nucleus",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Left common carotid artery",
+            "Left internal carotid artery",
+            "Left middle cerebral artery",
+            "Cavernous branch of internal carotid artery",
+            "Middle cerebral artery",
+            "Distal lateral striate branch of middle cerebral artery"
+        ]
+    },
+    {
+        "id": 153,
+        "subject": "Corona radiata",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Left common carotid artery",
+            "Left internal carotid artery",
+            "Left middle cerebral artery",
+            "Cavernous branch of internal carotid artery",
+            "Middle cerebral artery",
+            "Proximal lateral striate branch of middle cerebral artery"
+        ]
+    },
+    {
+        "id": 154,
+        "subject": "Corona radiata",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Left common carotid artery",
+            "Left internal carotid artery",
+            "Left middle cerebral artery",
+            "Cavernous branch of internal carotid artery",
+            "Middle cerebral artery",
+            "Distal lateral striate branch of middle cerebral artery"
+        ]
+    },
+    {
+        "id": 155,
+        "subject": "Myocardium of apical zone of left ventricle",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left coronary artery",
+            "Left coronary artery",
+            "Anterior interventricular branch of left coronary artery",
+            "Posterior septal branch of anterior interventricular artery"
+        ]
+    },
+    {
+        "id": 156,
+        "subject": "Myocardium of apical zone of left ventricle",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left coronary artery",
+            "Left coronary artery",
+            "Circumflex branch of left coronary artery",
+            "Left marginal artery"
+        ]
+    },
+    {
+        "id": 157,
+        "subject": "Myocardium of apical zone of left ventricle",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left coronary artery",
+            "Left coronary artery",
+            "Circumflex branch of left coronary artery",
+            "Posterior interventricular branch of left coronary artery"
+        ]
+    },
+    {
+        "id": 158,
+        "subject": "Myocardium of apical zone of left ventricle",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left coronary artery",
+            "Left coronary artery",
+            "Anterior interventricular branch of left coronary artery",
+            "Diagonal branch of anterior descending branch of left coronary artery"
+        ]
+    },
+    {
+        "id": 159,
+        "subject": "Myocardium of apical zone of left ventricle",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left coronary artery",
+            "Left coronary artery",
+            "Circumflex branch of left coronary artery",
+            "Posterior ventricular branch of circumflex coronary artery"
+        ]
+    },
+    {
+        "id": 160,
+        "subject": "Myocardium of apical zone of left ventricle",
+        "blood_path": [
+            "Aorta",
+            "Systemic arterial tree of male human body",
+            "Right coronary artery",
+            "Marginal branch of right coronary artery"
+        ]
+    },
+    {
+        "id": 161,
+        "subject": "Myocardium of apical zone of left ventricle",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left coronary artery",
+            "Left coronary artery",
+            "Anterior interventricular branch of left coronary artery",
+            "Anterior septal branch of anterior interventricular artery"
+        ]
+    },
+    {
+        "id": 162,
+        "subject": "Myocardium of apical zone of left ventricle",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left coronary artery",
+            "Left coronary artery",
+            "Anterior interventricular branch of left coronary artery",
+            "Left anterior branch of anterior interventricular branch of left coronary artery"
+        ]
+    },
+    {
+        "id": 163,
+        "subject": "Myocardium of apical zone of left ventricle",
+        "blood_path": [
+            "Aorta",
+            "Systemic arterial tree of male human body",
+            "Right coronary artery",
+            "Right posterolateral branch of right coronary artery"
+        ]
+    },
+    {
+        "id": 164,
+        "subject": "Myocardium of mid zone of left ventricle",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left coronary artery",
+            "Left coronary artery",
+            "Anterior interventricular branch of left coronary artery",
+            "Left anterior branch of anterior interventricular branch of left coronary artery"
+        ]
+    },
+    {
+        "id": 165,
+        "subject": "Myocardium of mid zone of left ventricle",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left coronary artery",
+            "Left coronary artery",
+            "Circumflex branch of left coronary artery",
+            "Posterior ventricular branch of circumflex coronary artery"
+        ]
+    },
+    {
+        "id": 166,
+        "subject": "Myocardium of mid zone of left ventricle",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left coronary artery",
+            "Left coronary artery",
+            "Anterior interventricular branch of left coronary artery",
+            "Diagonal branch of anterior descending branch of left coronary artery"
+        ]
+    },
+    {
+        "id": 167,
+        "subject": "Myocardium of mid zone of left ventricle",
+        "blood_path": [
+            "Aorta",
+            "Systemic arterial tree of male human body",
+            "Right coronary artery",
+            "Marginal branch of right coronary artery"
+        ]
+    },
+    {
+        "id": 168,
+        "subject": "Myocardium of mid zone of left ventricle",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left coronary artery",
+            "Left coronary artery",
+            "Circumflex branch of left coronary artery",
+            "Left marginal artery"
+        ]
+    },
+    {
+        "id": 169,
+        "subject": "Myocardium of mid zone of left ventricle",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left coronary artery",
+            "Left coronary artery",
+            "Circumflex branch of left coronary artery",
+            "Atrioventricular node branch of circumflex coronary artery"
+        ]
+    },
+    {
+        "id": 170,
+        "subject": "Myocardium of mid zone of left ventricle",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left coronary artery",
+            "Left coronary artery",
+            "Anterior interventricular branch of left coronary artery",
+            "Posterior septal branch of anterior interventricular artery"
+        ]
+    },
+    {
+        "id": 171,
+        "subject": "Myocardium of mid zone of left ventricle",
+        "blood_path": [
+            "Aorta",
+            "Systemic arterial tree of male human body",
+            "Right coronary artery",
+            "Posterior interventricular branch of right coronary artery"
+        ]
+    },
+    {
+        "id": 172,
+        "subject": "Myocardium of mid zone of left ventricle",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left coronary artery",
+            "Left coronary artery",
+            "Circumflex branch of left coronary artery",
+            "Posterior interventricular branch of left coronary artery"
+        ]
+    },
+    {
+        "id": 173,
+        "subject": "Myocardium of mid zone of left ventricle",
+        "blood_path": [
+            "Aorta",
+            "Systemic arterial tree of male human body",
+            "Right coronary artery",
+            "Right posterolateral branch of right coronary artery"
+        ]
+    },
+    {
+        "id": 174,
+        "subject": "Myocardium of mid zone of left ventricle",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left coronary artery",
+            "Left coronary artery",
+            "Anterior interventricular branch of left coronary artery",
+            "Anterior septal branch of anterior interventricular artery"
+        ]
+    },
+    {
+        "id": 175,
+        "subject": "Inferior wall of left ventricle",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left coronary artery",
+            "Left coronary artery",
+            "Circumflex branch of left coronary artery",
+            "Posterior interventricular branch of left coronary artery"
+        ]
+    },
+    {
+        "id": 176,
+        "subject": "Inferior wall of left ventricle",
+        "blood_path": [
+            "Aorta",
+            "Systemic arterial tree of male human body",
+            "Right coronary artery",
+            "Right posterolateral branch of right coronary artery"
+        ]
+    },
+    {
+        "id": 177,
+        "subject": "Inferior wall of left ventricle",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left coronary artery",
+            "Left coronary artery",
+            "Circumflex branch of left coronary artery",
+            "Posterior ventricular branch of circumflex coronary artery"
+        ]
+    },
+    {
+        "id": 178,
+        "subject": "Inferior wall of left ventricle",
+        "blood_path": [
+            "Aorta",
+            "Systemic arterial tree of male human body",
+            "Right coronary artery",
+            "Marginal branch of right coronary artery"
+        ]
+    },
+    {
+        "id": 179,
+        "subject": "Inferior wall of left ventricle",
+        "blood_path": [
+            "Aorta",
+            "Systemic arterial tree of male human body",
+            "Right coronary artery",
+            "Posterior interventricular branch of right coronary artery"
+        ]
+    },
+    {
+        "id": 180,
+        "subject": "Inferior wall of left ventricle",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left coronary artery",
+            "Left coronary artery",
+            "Anterior interventricular branch of left coronary artery",
+            "Posterior septal branch of anterior interventricular artery"
+        ]
+    },
+    {
+        "id": 181,
+        "subject": "Inferior wall of left ventricle",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left coronary artery",
+            "Left coronary artery",
+            "Circumflex branch of left coronary artery",
+            "Atrial branch of circumflex coronary artery"
+        ]
+    },
+    {
+        "id": 182,
+        "subject": "Prostate",
+        "blood_path": [
+            "Aorta",
+            "Trunk of right common iliac artery",
+            "Right common iliac artery",
+            "Right internal iliac artery",
+            "Anterior division of right internal iliac artery",
+            "Right inferior gluteal artery",
+            "Prostatic part of right inferior gluteal artery"
+        ]
+    },
+    {
+        "id": 183,
+        "subject": "Prostate",
+        "blood_path": [
+            "Aorta",
+            "Trunk of right common iliac artery",
+            "Right common iliac artery",
+            "Right internal iliac artery",
+            "Anterior division of right internal iliac artery",
+            "Right inferior vesical artery",
+            "Prostatic part of right inferior vesical artery"
+        ]
+    },
+    {
+        "id": 184,
+        "subject": "Prostate",
+        "blood_path": [
+            "Aorta",
+            "Trunk of right common iliac artery",
+            "Right common iliac artery",
+            "Right internal iliac artery",
+            "Anterior division of right internal iliac artery",
+            "Right middle rectal artery",
+            "Prostatic part of right middle rectal artery"
+        ]
+    },
+    {
+        "id": 185,
+        "subject": "Prostate",
+        "blood_path": [
+            "Aorta",
+            "Systemic arterial tree of male human body",
+            "Left common iliac artery",
+            "Left internal iliac artery",
+            "Anterior division of left internal iliac artery",
+            "Left middle rectal artery",
+            "Prostatic part of left middle rectal artery"
+        ]
+    },
+    {
+        "id": 186,
+        "subject": "Prostate",
+        "blood_path": [
+            "Aorta",
+            "Systemic arterial tree of male human body",
+            "Left common iliac artery",
+            "Left internal iliac artery",
+            "Anterior division of left internal iliac artery",
+            "Left inferior gluteal artery",
+            "Prostatic part of left inferior gluteal artery"
+        ]
+    },
+    {
+        "id": 187,
+        "subject": "Prostate",
+        "blood_path": [
+            "Aorta",
+            "Systemic arterial tree of male human body",
+            "Left common iliac artery",
+            "Left internal iliac artery",
+            "Anterior division of left internal iliac artery",
+            "Left inferior vesical artery",
+            "Prostatic part of left inferior vesical artery"
+        ]
+    },
+    {
+        "id": 188,
+        "subject": "Vagina",
+        "blood_path": [
+            "Aorta",
+            "Systemic arterial tree of male human body",
+            "Left common iliac artery",
+            "Left internal iliac artery",
+            "Anterior division of left internal iliac artery",
+            "Left internal pudendal artery",
+            "Left vestibular bulb artery"
+        ]
+    },
+    {
+        "id": 189,
+        "subject": "Vagina",
+        "blood_path": [
+            "Aorta",
+            "Systemic arterial tree of male human body",
+            "Left common iliac artery",
+            "Left internal iliac artery",
+            "Anterior division of left internal iliac artery",
+            "Left middle rectal artery",
+            "Vaginal branch of left middle rectal artery"
+        ]
+    },
+    {
+        "id": 190,
+        "subject": "Vagina",
+        "blood_path": [
+            "Aorta",
+            "Trunk of right common iliac artery",
+            "Right common iliac artery",
+            "Right internal iliac artery",
+            "Anterior division of right internal iliac artery",
+            "Right vaginal artery"
+        ]
+    },
+    {
+        "id": 191,
+        "subject": "Vagina",
+        "blood_path": [
+            "Aorta",
+            "Trunk of right common iliac artery",
+            "Right common iliac artery",
+            "Right internal iliac artery",
+            "Anterior division of right internal iliac artery",
+            "Right internal pudendal artery",
+            "Right vestibular bulb artery"
+        ]
+    },
+    {
+        "id": 192,
+        "subject": "Vagina",
+        "blood_path": [
+            "Aorta",
+            "Systemic arterial tree of male human body",
+            "Left common iliac artery",
+            "Left internal iliac artery",
+            "Anterior division of left internal iliac artery",
+            "Left vaginal artery"
+        ]
+    },
+    {
+        "id": 193,
+        "subject": "Vagina",
+        "blood_path": [
+            "Aorta",
+            "Trunk of right common iliac artery",
+            "Right common iliac artery",
+            "Right internal iliac artery",
+            "Anterior division of right internal iliac artery",
+            "Right middle rectal artery",
+            "Vaginal branch of right middle rectal artery"
+        ]
+    },
+    {
+        "id": 194,
+        "subject": "Vagina",
+        "blood_path": [
+            "Aorta",
+            "Systemic arterial tree of male human body",
+            "Left common iliac artery",
+            "Left internal iliac artery",
+            "Anterior division of left internal iliac artery",
+            "Left uterine artery",
+            "Vaginal part of left uterine artery"
+        ]
+    },
+    {
+        "id": 195,
+        "subject": "Vagina",
+        "blood_path": [
+            "Aorta",
+            "Trunk of right common iliac artery",
+            "Right common iliac artery",
+            "Right internal iliac artery",
+            "Anterior division of right internal iliac artery",
+            "Right uterine artery",
+            "Vaginal part of right uterine artery"
+        ]
+    },
+    {
+        "id": 196,
+        "subject": "Globus pallidus",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Left common carotid artery",
+            "Left internal carotid artery",
+            "Left middle cerebral artery",
+            "Cavernous branch of internal carotid artery",
+            "Anterior choroidal artery",
+            "Branch of anterior choroidal artery to globus pallidus"
+        ]
+    },
+    {
+        "id": 197,
+        "subject": "Globus pallidus",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Left common carotid artery",
+            "Left internal carotid artery",
+            "Left middle cerebral artery",
+            "Cavernous branch of internal carotid artery",
+            "Middle cerebral artery",
+            "Anterolateral central branch of middle cerebral artery"
+        ]
+    },
+    {
+        "id": 198,
+        "subject": "Myocardium of basal zone of left ventricle",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left coronary artery",
+            "Left coronary artery",
+            "Circumflex branch of left coronary artery",
+            "Left marginal artery"
+        ]
+    },
+    {
+        "id": 199,
+        "subject": "Myocardium of basal zone of left ventricle",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left coronary artery",
+            "Left coronary artery",
+            "Anterior interventricular branch of left coronary artery",
+            "Diagonal branch of anterior descending branch of left coronary artery"
+        ]
+    },
+    {
+        "id": 200,
+        "subject": "Myocardium of basal zone of left ventricle",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left coronary artery",
+            "Left coronary artery",
+            "Anterior interventricular branch of left coronary artery",
+            "Anterior septal branch of anterior interventricular artery"
+        ]
+    },
+    {
+        "id": 201,
+        "subject": "Myocardium of basal zone of left ventricle",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left coronary artery",
+            "Left coronary artery",
+            "Circumflex branch of left coronary artery",
+            "Atrial branch of circumflex coronary artery"
+        ]
+    },
+    {
+        "id": 202,
+        "subject": "Myocardium of basal zone of left ventricle",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left coronary artery",
+            "Left coronary artery",
+            "Circumflex branch of left coronary artery",
+            "Posterior interventricular branch of left coronary artery"
+        ]
+    },
+    {
+        "id": 203,
+        "subject": "Myocardium of basal zone of left ventricle",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left coronary artery",
+            "Left coronary artery",
+            "Anterior interventricular branch of left coronary artery",
+            "Left anterior branch of anterior interventricular branch of left coronary artery"
+        ]
+    },
+    {
+        "id": 204,
+        "subject": "Biceps brachii",
+        "blood_path": [
+            "Aorta",
+            "Arch of aorta",
+            "Trunk of subclavian artery",
+            "Trunk of brachial artery",
+            "Brachial artery",
+            "Biceps branch of brachial artery"
+        ]
+    },
+    {
+        "id": 205,
+        "subject": "Metencephalon",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left subclavian artery",
+            "Left subclavian artery",
+            "Left vertebral artery",
+            "Basilar artery",
+            "Superior cerebellar artery"
+        ]
+    },
+    {
+        "id": 206,
+        "subject": "Metencephalon",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left subclavian artery",
+            "Left subclavian artery",
+            "Left vertebral artery",
+            "Basilar artery",
+            "Anterior inferior cerebellar artery"
+        ]
+    },
+    {
+        "id": 207,
+        "subject": "Metencephalon",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left subclavian artery",
+            "Left subclavian artery",
+            "Left vertebral artery",
+            "Basilar artery",
+            "Anterior inferior cerebellar artery",
+            "Branch of anterior inferior cerebellar artery to pons"
+        ]
+    },
+    {
+        "id": 208,
+        "subject": "Metencephalon",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left subclavian artery",
+            "Left subclavian artery",
+            "Left vertebral artery",
+            "Basilar artery",
+            "Pontine artery"
+        ]
+    },
+    {
+        "id": 209,
+        "subject": "Cerebellum",
+        "blood_path": [
+            "Aorta",
+            "Arch of aorta",
+            "Trunk of subclavian artery",
+            "Subclavian artery",
+            "Vertebral artery",
+            "Posterior inferior cerebellar artery"
+        ]
+    },
+    {
+        "id": 210,
+        "subject": "Cerebellum",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left subclavian artery",
+            "Left subclavian artery",
+            "Left vertebral artery",
+            "Basilar artery",
+            "Anterior inferior cerebellar artery"
+        ]
+    },
+    {
+        "id": 211,
+        "subject": "Cerebellum",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left subclavian artery",
+            "Left subclavian artery",
+            "Left vertebral artery",
+            "Basilar artery",
+            "Superior cerebellar artery"
+        ]
+    },
+    {
+        "id": 212,
+        "subject": "Right parotid gland",
+        "blood_path": [
+            "Aorta",
+            "Trunk of brachiocephalic artery",
+            "Brachiocephalic artery",
+            "Right common carotid artery",
+            "Right external carotid artery",
+            "Right posterior auricular artery",
+            "Parotid branch of right posterior auricular artery"
+        ]
+    },
+    {
+        "id": 213,
+        "subject": "Right parotid gland",
+        "blood_path": [
+            "Aorta",
+            "Trunk of brachiocephalic artery",
+            "Brachiocephalic artery",
+            "Right common carotid artery",
+            "Right external carotid artery",
+            "Right superficial temporal artery",
+            "Right transverse facial artery",
+            "Parotid branch of right transverse facial artery"
+        ]
+    },
+    {
+        "id": 214,
+        "subject": "Right parotid gland",
+        "blood_path": [
+            "Aorta",
+            "Trunk of brachiocephalic artery",
+            "Brachiocephalic artery",
+            "Right common carotid artery",
+            "Right external carotid artery",
+            "Right superficial temporal artery",
+            "Parotid branch of right superficial temporal artery"
+        ]
+    },
+    {
+        "id": 215,
+        "subject": "Left deferent duct",
+        "blood_path": [
+            "Aorta",
+            "Systemic arterial tree of male human body",
+            "Left common iliac artery",
+            "Left internal iliac artery",
+            "Anterior division of left internal iliac artery",
+            "Left inferior vesical artery"
+        ]
+    },
+    {
+        "id": 216,
+        "subject": "Left deferent duct",
+        "blood_path": [
+            "Aorta",
+            "Systemic arterial tree of male human body",
+            "Left common iliac artery",
+            "Left internal iliac artery",
+            "Anterior division of left internal iliac artery",
+            "Left inferior vesical artery",
+            "Ductus deferens part of left inferior vesical artery"
+        ]
+    },
+    {
+        "id": 217,
+        "subject": "Adductor longus",
+        "blood_path": [
+            "Aorta",
+            "Systemic arterial tree of female human body",
+            "Common iliac artery",
+            "External iliac artery",
+            "Femoral artery",
+            "Adductor longus branch of femoral artery"
+        ]
+    },
+    {
+        "id": 218,
+        "subject": "Pancreas",
+        "blood_path": [
+            "Aorta",
+            "Celiac trunk",
+            "Celiac artery",
+            "Splenic artery",
+            "Inferior pancreatic artery"
+        ]
+    },
+    {
+        "id": 219,
+        "subject": "Pancreas",
+        "blood_path": [
+            "Aorta",
+            "Celiac trunk",
+            "Celiac artery",
+            "Splenic artery",
+            "Prepancreatic artery"
+        ]
+    },
+    {
+        "id": 220,
+        "subject": "Pancreas",
+        "blood_path": [
+            "Aorta",
+            "Celiac trunk",
+            "Celiac artery",
+            "Splenic artery",
+            "Dorsal pancreatic artery"
+        ]
+    },
+    {
+        "id": 221,
+        "subject": "Pancreas",
+        "blood_path": [
+            "Aorta",
+            "Celiac trunk",
+            "Celiac artery",
+            "Splenic artery",
+            "Great pancreatic artery"
+        ]
+    },
+    {
+        "id": 222,
+        "subject": "Pancreas",
+        "blood_path": [
+            "Aorta",
+            "Celiac trunk",
+            "Celiac artery",
+            "Splenic artery",
+            "Caudal pancreatic artery"
+        ]
+    },
+    {
+        "id": 223,
+        "subject": "Left lacrimal gland",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Left common carotid artery",
+            "Left internal carotid artery",
+            "Left ophthalmic artery",
+            "Left lacrimal artery"
+        ]
+    },
+    {
+        "id": 224,
+        "subject": "Right brachialis",
+        "blood_path": [
+            "Aorta",
+            "Trunk of brachiocephalic artery",
+            "Brachiocephalic artery",
+            "Right subclavian artery",
+            "Right radial artery",
+            "Right radial recurrent artery",
+            "Brachialis branch of right radial recurrent artery"
+        ]
+    },
+    {
+        "id": 225,
+        "subject": "Thyroid gland",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Left common carotid artery",
+            "Left external carotid artery",
+            "Left superior thyroid artery"
+        ]
+    },
+    {
+        "id": 226,
+        "subject": "Thyroid gland",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left subclavian artery",
+            "Left thyrocervical trunk",
+            "Left inferior thyroid artery"
+        ]
+    },
+    {
+        "id": 227,
+        "subject": "Thyroid gland",
+        "blood_path": [
+            "Aorta",
+            "Trunk of brachiocephalic artery",
+            "Brachiocephalic artery",
+            "Right subclavian artery",
+            "Right thyrocervical artery",
+            "Right inferior thyroid artery"
+        ]
+    },
+    {
+        "id": 228,
+        "subject": "Thyroid gland",
+        "blood_path": [
+            "Aorta",
+            "Trunk of brachiocephalic artery",
+            "Brachiocephalic artery",
+            "Right common carotid artery",
+            "Right external carotid artery",
+            "Right superior thyroid artery",
+            "Anterior glandular branch of right superior thyroid artery"
+        ]
+    },
+    {
+        "id": 229,
+        "subject": "Thyroid gland",
+        "blood_path": [
+            "Aorta",
+            "Trunk of brachiocephalic artery",
+            "Brachiocephalic artery",
+            "Right common carotid artery",
+            "Right external carotid artery",
+            "Right superior thyroid artery",
+            "Lateral glandular branch of right superior thyroid artery"
+        ]
+    },
+    {
+        "id": 230,
+        "subject": "Thyroid gland",
+        "blood_path": [
+            "Aorta",
+            "Trunk of brachiocephalic artery",
+            "Brachiocephalic artery",
+            "Right common carotid artery",
+            "Right external carotid artery",
+            "Right superior thyroid artery",
+            "Posterior glandular branch of right superior thyroid artery"
+        ]
+    },
+    {
+        "id": 231,
+        "subject": "Thyroid gland",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Left common carotid artery",
+            "Left external carotid artery",
+            "Left superior thyroid artery",
+            "Posterior glandular branch of left superior thyroid artery"
+        ]
+    },
+    {
+        "id": 232,
+        "subject": "Thyroid gland",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Left common carotid artery",
+            "Left external carotid artery",
+            "Left superior thyroid artery",
+            "Anterior glandular branch of left superior thyroid artery"
+        ]
+    },
+    {
+        "id": 233,
+        "subject": "Thyroid gland",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Left common carotid artery",
+            "Left external carotid artery",
+            "Left superior thyroid artery",
+            "Lateral glandular branch of left superior thyroid artery"
+        ]
+    },
+    {
+        "id": 234,
+        "subject": "Thyroid gland",
+        "blood_path": [
+            "Aorta",
+            "Trunk of brachiocephalic artery",
+            "Brachiocephalic artery",
+            "Right common carotid artery",
+            "Right external carotid artery",
+            "Right superior thyroid artery"
+        ]
+    },
+    {
+        "id": 235,
+        "subject": "Thyroid gland",
+        "blood_path": [
+            "Aorta",
+            "Trunk of brachiocephalic artery",
+            "Brachiocephalic artery",
+            "Thyroidea ima artery (variant)"
+        ]
+    },
+    {
+        "id": 236,
+        "subject": "Medial orbital gyrus",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Left common carotid artery",
+            "Left internal carotid artery",
+            "Left middle cerebral artery",
+            "Cavernous branch of internal carotid artery",
+            "Anterior cerebral artery",
+            "Medial frontobasal artery"
+        ]
+    },
+    {
+        "id": 237,
+        "subject": "Lateral orbital gyrus",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Left common carotid artery",
+            "Left internal carotid artery",
+            "Left middle cerebral artery",
+            "Cavernous branch of internal carotid artery",
+            "Middle cerebral artery",
+            "Lateral frontobasal artery"
+        ]
+    },
+    {
+        "id": 238,
+        "subject": "Lateral orbital gyrus",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Left common carotid artery",
+            "Left internal carotid artery",
+            "Left middle cerebral artery",
+            "Cavernous branch of internal carotid artery",
+            "Anterior cerebral artery",
+            "Medial frontobasal artery"
+        ]
+    },
+    {
+        "id": 239,
+        "subject": "Posterior orbital gyrus",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Left common carotid artery",
+            "Left internal carotid artery",
+            "Left middle cerebral artery",
+            "Cavernous branch of internal carotid artery",
+            "Middle cerebral artery",
+            "Lateral frontobasal artery"
+        ]
+    },
+    {
+        "id": 240,
+        "subject": "Posterior orbital gyrus",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Left common carotid artery",
+            "Left internal carotid artery",
+            "Left middle cerebral artery",
+            "Cavernous branch of internal carotid artery",
+            "Anterior cerebral artery",
+            "Medial frontobasal artery"
+        ]
+    },
+    {
+        "id": 241,
+        "subject": "Intermediate orbital gyrus",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Left common carotid artery",
+            "Left internal carotid artery",
+            "Left middle cerebral artery",
+            "Cavernous branch of internal carotid artery",
+            "Middle cerebral artery",
+            "Lateral frontobasal artery"
+        ]
+    },
+    {
+        "id": 242,
+        "subject": "Intermediate orbital gyrus",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Left common carotid artery",
+            "Left internal carotid artery",
+            "Left middle cerebral artery",
+            "Cavernous branch of internal carotid artery",
+            "Anterior cerebral artery",
+            "Medial frontobasal artery"
+        ]
+    },
+    {
+        "id": 243,
+        "subject": "Liver",
+        "blood_path": [
+            "Aorta",
+            "Celiac trunk",
+            "Celiac artery",
+            "Common hepatic artery",
+            "Hepatic artery proper"
+        ]
+    },
+    {
+        "id": 244,
+        "subject": "Hard palate",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Left common carotid artery",
+            "Left internal carotid artery",
+            "Left middle cerebral artery",
+            "Cavernous branch of internal carotid artery",
+            "Internal carotid artery",
+            "Common carotid artery",
+            "External carotid artery",
+            "Maxillary artery",
+            "Descending palatine artery",
+            "Greater palatine artery"
+        ]
+    },
+    {
+        "id": 245,
+        "subject": "Pons",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left subclavian artery",
+            "Left subclavian artery",
+            "Left vertebral artery",
+            "Basilar artery",
+            "Anterior inferior cerebellar artery",
+            "Branch of anterior inferior cerebellar artery to pons"
+        ]
+    },
+    {
+        "id": 246,
+        "subject": "Pons",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left subclavian artery",
+            "Left subclavian artery",
+            "Left vertebral artery",
+            "Basilar artery",
+            "Pontine artery"
+        ]
+    },
+    {
+        "id": 247,
+        "subject": "Appendix",
+        "blood_path": [
+            "Aorta",
+            "Trunk of superior mesenteric artery",
+            "Superior mesenteric artery",
+            "Ileocolic artery",
+            "Inferior branch of ileocolic artery",
+            "Appendicular artery"
+        ]
+    },
+    {
+        "id": 248,
+        "subject": "Right branch of atrioventricular bundle",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left coronary artery",
+            "Left coronary artery",
+            "Anterior interventricular branch of left coronary artery",
+            "Septal branch of anterior interventricular artery"
+        ]
+    },
+    {
+        "id": 249,
+        "subject": "Right branch of atrioventricular bundle",
+        "blood_path": [
+            "Aorta",
+            "Systemic arterial tree of male human body",
+            "Right coronary artery",
+            "Posterior interventricular branch of right coronary artery"
+        ]
+    },
+    {
+        "id": 250,
+        "subject": "Inferior interventricular septum",
+        "blood_path": [
+            "Aorta",
+            "Systemic arterial tree of male human body",
+            "Right coronary artery",
+            "Posterior interventricular branch of right coronary artery"
+        ]
+    },
+    {
+        "id": 251,
+        "subject": "Inferior interventricular septum",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left coronary artery",
+            "Left coronary artery",
+            "Anterior interventricular branch of left coronary artery",
+            "Posterior septal branch of anterior interventricular artery"
+        ]
+    },
+    {
+        "id": 252,
+        "subject": "Left branch of atrioventricular bundle",
+        "blood_path": [
+            "Aorta",
+            "Systemic arterial tree of male human body",
+            "Right coronary artery",
+            "Posterior interventricular branch of right coronary artery"
+        ]
+    },
+    {
+        "id": 253,
+        "subject": "Atrioventricular bundle",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left coronary artery",
+            "Left coronary artery",
+            "Anterior interventricular branch of left coronary artery"
+        ]
+    },
+    {
+        "id": 254,
+        "subject": "Atrioventricular bundle",
+        "blood_path": [
+            "Aorta",
+            "Systemic arterial tree of male human body",
+            "Right coronary artery",
+            "Posterior interventricular branch of right coronary artery"
+        ]
+    },
+    {
+        "id": 255,
+        "subject": "Atrioventricular bundle",
+        "blood_path": [
+            "Aorta",
+            "Systemic arterial tree of male human body",
+            "Right coronary artery",
+            "Atrioventricular node branch of right coronary artery"
+        ]
+    },
+    {
+        "id": 256,
+        "subject": "Septal wall of left ventricle",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left coronary artery",
+            "Left coronary artery",
+            "Circumflex branch of left coronary artery",
+            "Atrioventricular node branch of circumflex coronary artery"
+        ]
+    },
+    {
+        "id": 257,
+        "subject": "Septal wall of left ventricle",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left coronary artery",
+            "Left coronary artery",
+            "Anterior interventricular branch of left coronary artery",
+            "Posterior septal branch of anterior interventricular artery"
+        ]
+    },
+    {
+        "id": 258,
+        "subject": "Septal wall of left ventricle",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left coronary artery",
+            "Left coronary artery",
+            "Anterior interventricular branch of left coronary artery",
+            "Anterior septal branch of anterior interventricular artery"
+        ]
+    },
+    {
+        "id": 259,
+        "subject": "Septal wall of left ventricle",
+        "blood_path": [
+            "Aorta",
+            "Systemic arterial tree of male human body",
+            "Right coronary artery",
+            "Posterior interventricular branch of right coronary artery"
+        ]
+    },
+    {
+        "id": 260,
+        "subject": "Sinuatrial node",
+        "blood_path": [
+            "Aorta",
+            "Systemic arterial tree of male human body",
+            "Right coronary artery",
+            "Sinoatrial nodal branch of right coronary artery"
+        ]
+    },
+    {
+        "id": 261,
+        "subject": "Sinuatrial node",
+        "blood_path": [
+            "Aorta",
+            "Systemic arterial tree of male human body",
+            "Right coronary artery",
+            "Anterior atrial branch of right coronary artery"
+        ]
+    },
+    {
+        "id": 262,
+        "subject": "Sinuatrial node",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left coronary artery",
+            "Left coronary artery",
+            "Circumflex branch of left coronary artery",
+            "Sinoatrial nodal branch of circumflex coronary artery"
+        ]
+    },
+    {
+        "id": 263,
+        "subject": "Sinuatrial node",
+        "blood_path": [
+            "Aorta",
+            "Systemic arterial tree of male human body",
+            "Right coronary artery",
+            "Intermediate atrial branch of right coronary artery"
+        ]
+    },
+    {
+        "id": 264,
+        "subject": "Sinuatrial node",
+        "blood_path": [
+            "Aorta",
+            "Systemic arterial tree of male human body",
+            "Right coronary artery",
+            "Sinoatrial nodal branch of right coronary artery",
+            "Crista terminalis branch of sinoatrial nodal artery"
+        ]
+    },
+    {
+        "id": 265,
+        "subject": "Nucleus accumbens",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Left common carotid artery",
+            "Left internal carotid artery",
+            "Left middle cerebral artery",
+            "Cavernous branch of internal carotid artery",
+            "Anterior cerebral artery",
+            "Proximal medial striate artery"
+        ]
+    },
+    {
+        "id": 266,
+        "subject": "Optic nerve",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Left common carotid artery",
+            "Left internal carotid artery",
+            "Left middle cerebral artery",
+            "Cavernous branch of internal carotid artery",
+            "Anterior cerebral artery",
+            "Proximal medial striate artery"
+        ]
+    },
+    {
+        "id": 267,
+        "subject": "Anterior column of fornix of forebrain",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left subclavian artery",
+            "Left subclavian artery",
+            "Left vertebral artery",
+            "Basilar artery",
+            "Posterior cerebral artery",
+            "Posterior choroidal artery",
+            "Posterior lateral choroidal artery"
+        ]
+    },
+    {
+        "id": 268,
+        "subject": "Anterior column of fornix of forebrain",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Left common carotid artery",
+            "Left internal carotid artery",
+            "Left middle cerebral artery",
+            "Cavernous branch of internal carotid artery",
+            "Anterior cerebral artery",
+            "Proximal medial striate artery"
+        ]
+    },
+    {
+        "id": 269,
+        "subject": "Cochlear nuclear complex",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left subclavian artery",
+            "Left subclavian artery",
+            "Left vertebral artery",
+            "Basilar artery",
+            "Anterior inferior cerebellar artery",
+            "Labyrinthine artery",
+            "Common cochlear artery"
+        ]
+    },
+    {
+        "id": 270,
+        "subject": "Optic chiasm",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Left common carotid artery",
+            "Left internal carotid artery",
+            "Left middle cerebral artery",
+            "Cavernous branch of internal carotid artery",
+            "Anterior choroidal artery",
+            "Branch of anterior choroidal artery to optic chiasm"
+        ]
+    },
+    {
+        "id": 271,
+        "subject": "Posterior division of left branch of atrioventricular bundle",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left coronary artery",
+            "Left coronary artery",
+            "Circumflex branch of left coronary artery",
+            "Atrioventricular node branch of circumflex coronary artery"
+        ]
+    },
+    {
+        "id": 272,
+        "subject": "Angular gyrus",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Left common carotid artery",
+            "Left internal carotid artery",
+            "Left middle cerebral artery",
+            "Cavernous branch of internal carotid artery",
+            "Middle cerebral artery",
+            "Posterior parietal artery"
+        ]
+    },
+    {
+        "id": 273,
+        "subject": "Angular gyrus",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Left common carotid artery",
+            "Left internal carotid artery",
+            "Left middle cerebral artery",
+            "Cavernous branch of internal carotid artery",
+            "Middle cerebral artery",
+            "Branch of middle cerebral artery to angular gyrus"
+        ]
+    },
+    {
+        "id": 274,
+        "subject": "Stem of temporal lobe",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Left common carotid artery",
+            "Left internal carotid artery",
+            "Left middle cerebral artery",
+            "Cavernous branch of internal carotid artery",
+            "Anterior choroidal artery"
+        ]
+    },
+    {
+        "id": 275,
+        "subject": "Anterior wall of left ventricle",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left coronary artery",
+            "Left coronary artery",
+            "Anterior interventricular branch of left coronary artery",
+            "Left anterior branch of anterior interventricular branch of left coronary artery"
+        ]
+    },
+    {
+        "id": 276,
+        "subject": "Anterior wall of left ventricle",
+        "blood_path": [
+            "Aorta",
+            "Systemic arterial tree of male human body",
+            "Right coronary artery",
+            "Marginal branch of right coronary artery"
+        ]
+    },
+    {
+        "id": 277,
+        "subject": "Anterior wall of left ventricle",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left coronary artery",
+            "Left coronary artery",
+            "Anterior interventricular branch of left coronary artery",
+            "Diagonal branch of anterior descending branch of left coronary artery"
+        ]
+    },
+    {
+        "id": 278,
+        "subject": "Anterior wall of left ventricle",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left coronary artery",
+            "Left coronary artery",
+            "Circumflex branch of left coronary artery",
+            "Left marginal artery"
+        ]
+    },
+    {
+        "id": 279,
+        "subject": "Fasciolar gyrus",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left subclavian artery",
+            "Left subclavian artery",
+            "Left vertebral artery",
+            "Basilar artery",
+            "Posterior cerebral artery",
+            "Medial occipital artery"
+        ]
+    },
+    {
+        "id": 280,
+        "subject": "Superior occipital gyrus",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left subclavian artery",
+            "Left subclavian artery",
+            "Left vertebral artery",
+            "Basilar artery",
+            "Posterior cerebral artery",
+            "Lateral occipital artery"
+        ]
+    },
+    {
+        "id": 281,
+        "subject": "Superior occipital gyrus",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Left common carotid artery",
+            "Left internal carotid artery",
+            "Left middle cerebral artery",
+            "Cavernous branch of internal carotid artery",
+            "Anterior cerebral artery",
+            "Pericallosal artery"
+        ]
+    },
+    {
+        "id": 282,
+        "subject": "Superior occipital gyrus",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left subclavian artery",
+            "Left subclavian artery",
+            "Left vertebral artery",
+            "Basilar artery",
+            "Posterior cerebral artery",
+            "Medial occipital artery"
+        ]
+    },
+    {
+        "id": 283,
+        "subject": "Superior occipital gyrus",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Left common carotid artery",
+            "Left internal carotid artery",
+            "Left middle cerebral artery",
+            "Cavernous branch of internal carotid artery",
+            "Middle cerebral artery",
+            "Posterior parietal artery"
+        ]
+    },
+    {
+        "id": 284,
+        "subject": "Superior occipital gyrus",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left subclavian artery",
+            "Left subclavian artery",
+            "Left vertebral artery",
+            "Basilar artery",
+            "Posterior cerebral artery",
+            "Medial occipital artery",
+            "Parietal occipital artery"
+        ]
+    },
+    {
+        "id": 285,
+        "subject": "Medial preoptic nucleus",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Left common carotid artery",
+            "Left internal carotid artery",
+            "Left middle cerebral artery",
+            "Cavernous branch of internal carotid artery",
+            "Anterior cerebral artery",
+            "Pre-optic artery"
+        ]
+    },
+    {
+        "id": 286,
+        "subject": "Lateral preoptic nucleus",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Left common carotid artery",
+            "Left internal carotid artery",
+            "Left middle cerebral artery",
+            "Cavernous branch of internal carotid artery",
+            "Anterior cerebral artery",
+            "Pre-optic artery"
+        ]
+    },
+    {
+        "id": 287,
+        "subject": "Median preoptic nucleus",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Left common carotid artery",
+            "Left internal carotid artery",
+            "Left middle cerebral artery",
+            "Cavernous branch of internal carotid artery",
+            "Anterior cerebral artery",
+            "Pre-optic artery"
+        ]
+    },
+    {
+        "id": 288,
+        "subject": "Right side of heart",
+        "blood_path": [
+            "Aorta",
+            "Systemic arterial tree of male human body",
+            "Right coronary artery"
+        ]
+    },
+    {
+        "id": 289,
+        "subject": "Heart",
+        "blood_path": [
+            "Aorta",
+            "Systemic arterial tree of male human body",
+            "Right coronary artery"
+        ]
+    },
+    {
+        "id": 290,
+        "subject": "Heart",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left coronary artery",
+            "Left coronary artery"
+        ]
+    },
+    {
+        "id": 291,
+        "subject": "Wall of right side of heart",
+        "blood_path": [
+            "Aorta",
+            "Systemic arterial tree of male human body",
+            "Right coronary artery"
+        ]
+    },
+    {
+        "id": 292,
+        "subject": "Wall of biventricular part of heart",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left coronary artery",
+            "Left coronary artery"
+        ]
+    },
+    {
+        "id": 293,
+        "subject": "Wall of biventricular part of heart",
+        "blood_path": [
+            "Aorta",
+            "Systemic arterial tree of male human body",
+            "Right coronary artery"
+        ]
+    },
+    {
+        "id": 294,
+        "subject": "Myocardium",
+        "blood_path": [
+            "Aorta",
+            "Systemic arterial tree of male human body",
+            "Right coronary artery"
+        ]
+    },
+    {
+        "id": 295,
+        "subject": "Myocardium",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left coronary artery",
+            "Left coronary artery"
+        ]
+    },
+    {
+        "id": 296,
+        "subject": "Right side of lower lip",
+        "blood_path": [
+            "Aorta",
+            "Trunk of brachiocephalic artery",
+            "Brachiocephalic artery",
+            "Right common carotid artery",
+            "Right external carotid artery",
+            "Right facial artery",
+            "Right inferior labial artery"
+        ]
+    },
+    {
+        "id": 297,
+        "subject": "Thymus",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left subclavian artery",
+            "Left subclavian artery",
+            "Left internal thoracic artery",
+            "Left thymic artery"
+        ]
+    },
+    {
+        "id": 298,
+        "subject": "Thymus",
+        "blood_path": [
+            "Aorta",
+            "Trunk of brachiocephalic artery",
+            "Brachiocephalic artery",
+            "Thymic branch of brachiocephalic artery"
+        ]
+    },
+    {
+        "id": 299,
+        "subject": "Thymus",
+        "blood_path": [
+            "Aorta",
+            "Trunk of brachiocephalic artery",
+            "Brachiocephalic artery",
+            "Right subclavian artery",
+            "Right internal thoracic artery",
+            "Right thymic artery"
+        ]
+    },
+    {
+        "id": 300,
+        "subject": "Inferior parathyroid gland",
+        "blood_path": [
+            "Aorta",
+            "Arch of aorta",
+            "Trunk of subclavian artery",
+            "Subclavian artery",
+            "Thyrocervical artery",
+            "Inferior thyroid artery"
+        ]
+    },
+    {
+        "id": 301,
+        "subject": "Left uterine tube",
+        "blood_path": [
+            "Aorta",
+            "Systemic arterial tree of male human body",
+            "Left common iliac artery",
+            "Left internal iliac artery",
+            "Anterior division of left internal iliac artery",
+            "Left uterine artery",
+            "Tubal part of left uterine artery"
+        ]
+    },
+    {
+        "id": 302,
+        "subject": "Left uterine tube",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left ovarian artery",
+            "Left ovarian artery"
+        ]
+    },
+    {
+        "id": 303,
+        "subject": "Right lung",
+        "blood_path": [
+            "Aorta",
+            "Systemic arterial tree of male human body",
+            "Right bronchial artery"
+        ]
+    },
+    {
+        "id": 304,
+        "subject": "Upper lobe of right lung",
+        "blood_path": [
+            "Aorta",
+            "Systemic arterial tree of male human body",
+            "Right bronchial artery"
+        ]
+    },
+    {
+        "id": 305,
+        "subject": "Left ovary",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left ovarian artery",
+            "Left ovarian artery"
+        ]
+    },
+    {
+        "id": 306,
+        "subject": "Right deferent duct",
+        "blood_path": [
+            "Aorta",
+            "Trunk of right common iliac artery",
+            "Right common iliac artery",
+            "Right internal iliac artery",
+            "Anterior division of right internal iliac artery",
+            "Right inferior vesical artery"
+        ]
+    },
+    {
+        "id": 307,
+        "subject": "Right deferent duct",
+        "blood_path": [
+            "Aorta",
+            "Trunk of right common iliac artery",
+            "Right common iliac artery",
+            "Right internal iliac artery",
+            "Anterior division of right internal iliac artery",
+            "Right inferior vesical artery",
+            "Ductus deferens part of right inferior vesical artery"
+        ]
+    },
+    {
+        "id": 308,
+        "subject": "Right seminal vesicle",
+        "blood_path": [
+            "Aorta",
+            "Trunk of right common iliac artery",
+            "Right common iliac artery",
+            "Right internal iliac artery",
+            "Anterior division of right internal iliac artery",
+            "Right inferior vesical artery"
+        ]
+    },
+    {
+        "id": 309,
+        "subject": "Right seminal vesicle",
+        "blood_path": [
+            "Aorta",
+            "Trunk of right common iliac artery",
+            "Right common iliac artery",
+            "Right internal iliac artery",
+            "Anterior division of right internal iliac artery",
+            "Right inferior vesical artery",
+            "Seminal vesicle part of right inferior vesical artery"
+        ]
+    },
+    {
+        "id": 310,
+        "subject": "Posterior transverse temporal gyrus",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Left common carotid artery",
+            "Left internal carotid artery",
+            "Left middle cerebral artery",
+            "Cavernous branch of internal carotid artery",
+            "Middle cerebral artery",
+            "Insular artery"
+        ]
+    },
+    {
+        "id": 311,
+        "subject": "Short insular gyrus",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Left common carotid artery",
+            "Left internal carotid artery",
+            "Left middle cerebral artery",
+            "Cavernous branch of internal carotid artery",
+            "Middle cerebral artery",
+            "Insular artery"
+        ]
+    },
+    {
+        "id": 312,
+        "subject": "Accessory short gyrus",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Left common carotid artery",
+            "Left internal carotid artery",
+            "Left middle cerebral artery",
+            "Cavernous branch of internal carotid artery",
+            "Middle cerebral artery",
+            "Insular artery"
+        ]
+    },
+    {
+        "id": 313,
+        "subject": "Anterior accessory gyrus",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Left common carotid artery",
+            "Left internal carotid artery",
+            "Left middle cerebral artery",
+            "Cavernous branch of internal carotid artery",
+            "Middle cerebral artery",
+            "Insular artery"
+        ]
+    },
+    {
+        "id": 314,
+        "subject": "Anterior transverse temporal gyrus",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Left common carotid artery",
+            "Left internal carotid artery",
+            "Left middle cerebral artery",
+            "Cavernous branch of internal carotid artery",
+            "Middle cerebral artery",
+            "Insular artery"
+        ]
+    },
+    {
+        "id": 315,
+        "subject": "Long insular gyrus",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Left common carotid artery",
+            "Left internal carotid artery",
+            "Left middle cerebral artery",
+            "Cavernous branch of internal carotid artery",
+            "Middle cerebral artery",
+            "Insular artery"
+        ]
+    },
+    {
+        "id": 316,
+        "subject": "Right lacrimal gland",
+        "blood_path": [
+            "Aorta",
+            "Trunk of brachiocephalic artery",
+            "Brachiocephalic artery",
+            "Right common carotid artery",
+            "Right internal carotid artery",
+            "Right ophthalmic artery",
+            "Right lacrimal artery"
+        ]
+    },
+    {
+        "id": 317,
+        "subject": "Right supinator",
+        "blood_path": [
+            "Aorta",
+            "Trunk of brachiocephalic artery",
+            "Brachiocephalic artery",
+            "Right subclavian artery",
+            "Right radial artery",
+            "Right radial recurrent artery",
+            "Supinator muscle branch of right radial recurrent artery"
+        ]
+    },
+    {
+        "id": 318,
+        "subject": "Right uterine tube",
+        "blood_path": [
+            "Aorta",
+            "Trunk of right ovarian artery",
+            "Right ovarian artery"
+        ]
+    },
+    {
+        "id": 319,
+        "subject": "Right uterine tube",
+        "blood_path": [
+            "Aorta",
+            "Trunk of right common iliac artery",
+            "Right common iliac artery",
+            "Right internal iliac artery",
+            "Anterior division of right internal iliac artery",
+            "Right uterine artery",
+            "Tubal part of right uterine artery"
+        ]
+    },
+    {
+        "id": 320,
+        "subject": "Middle temporal gyrus",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Left common carotid artery",
+            "Left internal carotid artery",
+            "Left middle cerebral artery",
+            "Cavernous branch of internal carotid artery",
+            "Middle cerebral artery",
+            "Polar temporal artery"
+        ]
+    },
+    {
+        "id": 321,
+        "subject": "Middle temporal gyrus",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Left common carotid artery",
+            "Left internal carotid artery",
+            "Left middle cerebral artery",
+            "Cavernous branch of internal carotid artery",
+            "Middle cerebral artery",
+            "Posterior temporal artery"
+        ]
+    },
+    {
+        "id": 322,
+        "subject": "Middle temporal gyrus",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Left common carotid artery",
+            "Left internal carotid artery",
+            "Left middle cerebral artery",
+            "Cavernous branch of internal carotid artery",
+            "Middle cerebral artery",
+            "Anterior temporal artery"
+        ]
+    },
+    {
+        "id": 323,
+        "subject": "Parahippocampal gyrus",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Left common carotid artery",
+            "Left internal carotid artery",
+            "Left middle cerebral artery",
+            "Cavernous branch of internal carotid artery",
+            "Middle cerebral artery",
+            "Posterior temporal artery"
+        ]
+    },
+    {
+        "id": 324,
+        "subject": "Parahippocampal gyrus",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Left common carotid artery",
+            "Left internal carotid artery",
+            "Left middle cerebral artery",
+            "Cavernous branch of internal carotid artery",
+            "Middle cerebral artery",
+            "Anterior temporal artery"
+        ]
+    },
+    {
+        "id": 325,
+        "subject": "Parahippocampal gyrus",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Left common carotid artery",
+            "Left internal carotid artery",
+            "Left middle cerebral artery",
+            "Cavernous branch of internal carotid artery",
+            "Middle cerebral artery",
+            "Polar temporal artery"
+        ]
+    },
+    {
+        "id": 326,
+        "subject": "Fusiform gyrus",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Left common carotid artery",
+            "Left internal carotid artery",
+            "Left middle cerebral artery",
+            "Cavernous branch of internal carotid artery",
+            "Middle cerebral artery",
+            "Polar temporal artery"
+        ]
+    },
+    {
+        "id": 327,
+        "subject": "Fusiform gyrus",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Left common carotid artery",
+            "Left internal carotid artery",
+            "Left middle cerebral artery",
+            "Cavernous branch of internal carotid artery",
+            "Middle cerebral artery",
+            "Anterior temporal artery"
+        ]
+    },
+    {
+        "id": 328,
+        "subject": "Fusiform gyrus",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Left common carotid artery",
+            "Left internal carotid artery",
+            "Left middle cerebral artery",
+            "Cavernous branch of internal carotid artery",
+            "Middle cerebral artery",
+            "Posterior temporal artery"
+        ]
+    },
+    {
+        "id": 329,
+        "subject": "Inferior temporal gyrus",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Left common carotid artery",
+            "Left internal carotid artery",
+            "Left middle cerebral artery",
+            "Cavernous branch of internal carotid artery",
+            "Middle cerebral artery",
+            "Posterior temporal artery"
+        ]
+    },
+    {
+        "id": 330,
+        "subject": "Inferior temporal gyrus",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Left common carotid artery",
+            "Left internal carotid artery",
+            "Left middle cerebral artery",
+            "Cavernous branch of internal carotid artery",
+            "Middle cerebral artery",
+            "Anterior temporal artery"
+        ]
+    },
+    {
+        "id": 331,
+        "subject": "Inferior temporal gyrus",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Left common carotid artery",
+            "Left internal carotid artery",
+            "Left middle cerebral artery",
+            "Cavernous branch of internal carotid artery",
+            "Middle cerebral artery",
+            "Polar temporal artery"
+        ]
+    },
+    {
+        "id": 332,
+        "subject": "Superior temporal gyrus",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Left common carotid artery",
+            "Left internal carotid artery",
+            "Left middle cerebral artery",
+            "Cavernous branch of internal carotid artery",
+            "Middle cerebral artery",
+            "Posterior temporal artery"
+        ]
+    },
+    {
+        "id": 333,
+        "subject": "Superior temporal gyrus",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Left common carotid artery",
+            "Left internal carotid artery",
+            "Left middle cerebral artery",
+            "Cavernous branch of internal carotid artery",
+            "Middle cerebral artery",
+            "Anterior temporal artery"
+        ]
+    },
+    {
+        "id": 334,
+        "subject": "Superior temporal gyrus",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Left common carotid artery",
+            "Left internal carotid artery",
+            "Left middle cerebral artery",
+            "Cavernous branch of internal carotid artery",
+            "Middle cerebral artery",
+            "Polar temporal artery"
+        ]
+    },
+    {
+        "id": 335,
+        "subject": "Posterior segment of parahippocampal gyrus",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Left common carotid artery",
+            "Left internal carotid artery",
+            "Left middle cerebral artery",
+            "Cavernous branch of internal carotid artery",
+            "Middle cerebral artery",
+            "Posterior temporal artery"
+        ]
+    },
+    {
+        "id": 336,
+        "subject": "Posterior segment of parahippocampal gyrus",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Left common carotid artery",
+            "Left internal carotid artery",
+            "Left middle cerebral artery",
+            "Cavernous branch of internal carotid artery",
+            "Middle cerebral artery",
+            "Anterior temporal artery"
+        ]
+    },
+    {
+        "id": 337,
+        "subject": "Left greater vestibular gland",
+        "blood_path": [
+            "Aorta",
+            "Systemic arterial tree of male human body",
+            "Left common iliac artery",
+            "Left external iliac artery",
+            "Left femoral artery",
+            "Left superficial external pudendal artery",
+            "Labial branch of left superficial external pudendal artery"
+        ]
+    },
+    {
+        "id": 338,
+        "subject": "Precuneus",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Left common carotid artery",
+            "Left internal carotid artery",
+            "Left middle cerebral artery",
+            "Cavernous branch of internal carotid artery",
+            "Anterior cerebral artery",
+            "Pericallosal artery"
+        ]
+    },
+    {
+        "id": 339,
+        "subject": "Precuneus",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left subclavian artery",
+            "Left subclavian artery",
+            "Left vertebral artery",
+            "Basilar artery",
+            "Posterior cerebral artery",
+            "Medial occipital artery",
+            "Parietal occipital artery"
+        ]
+    },
+    {
+        "id": 340,
+        "subject": "Supracallosal gyrus",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Left common carotid artery",
+            "Left internal carotid artery",
+            "Left middle cerebral artery",
+            "Cavernous branch of internal carotid artery",
+            "Anterior cerebral artery",
+            "Pericallosal artery"
+        ]
+    },
+    {
+        "id": 341,
+        "subject": "Posterior cingulate gyrus",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Left common carotid artery",
+            "Left internal carotid artery",
+            "Left middle cerebral artery",
+            "Cavernous branch of internal carotid artery",
+            "Anterior cerebral artery",
+            "Callosomarginal artery"
+        ]
+    },
+    {
+        "id": 342,
+        "subject": "Posterior cingulate gyrus",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Left common carotid artery",
+            "Left internal carotid artery",
+            "Left middle cerebral artery",
+            "Cavernous branch of internal carotid artery",
+            "Anterior cerebral artery",
+            "Pericallosal artery"
+        ]
+    },
+    {
+        "id": 343,
+        "subject": "Cuneus",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left subclavian artery",
+            "Left subclavian artery",
+            "Left vertebral artery",
+            "Basilar artery",
+            "Posterior cerebral artery",
+            "Medial occipital artery",
+            "Calcarine artery"
+        ]
+    },
+    {
+        "id": 344,
+        "subject": "Cuneus",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left subclavian artery",
+            "Left subclavian artery",
+            "Left vertebral artery",
+            "Basilar artery",
+            "Posterior cerebral artery",
+            "Medial occipital artery",
+            "Parietal occipital artery"
+        ]
+    },
+    {
+        "id": 345,
+        "subject": "Cuneus",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Left common carotid artery",
+            "Left internal carotid artery",
+            "Left middle cerebral artery",
+            "Cavernous branch of internal carotid artery",
+            "Anterior cerebral artery",
+            "Pericallosal artery"
+        ]
+    },
+    {
+        "id": 346,
+        "subject": "Wall of left side of heart",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left coronary artery",
+            "Left coronary artery"
+        ]
+    },
+    {
+        "id": 347,
+        "subject": "Left side of heart",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left coronary artery",
+            "Left coronary artery"
+        ]
+    },
+    {
+        "id": 348,
+        "subject": "Anterior perforated substance",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Left common carotid artery",
+            "Left internal carotid artery",
+            "Left middle cerebral artery",
+            "Cavernous branch of internal carotid artery",
+            "Anterior choroidal artery",
+            "Branch of anterior choroidal artery to anterior perforated substance"
+        ]
+    },
+    {
+        "id": 349,
+        "subject": "Anal canal",
+        "blood_path": [
+            "Aorta",
+            "Trunk of median sacral artery",
+            "Median sacral artery"
+        ]
+    },
+    {
+        "id": 350,
+        "subject": "Anal canal",
+        "blood_path": [
+            "Aorta",
+            "Trunk of right common iliac artery",
+            "Right common iliac artery",
+            "Right internal iliac artery",
+            "Anterior division of right internal iliac artery",
+            "Right internal pudendal artery",
+            "Right inferior rectal artery"
+        ]
+    },
+    {
+        "id": 351,
+        "subject": "Anal canal",
+        "blood_path": [
+            "Aorta",
+            "Systemic arterial tree of male human body",
+            "Left common iliac artery",
+            "Left internal iliac artery",
+            "Anterior division of left internal iliac artery",
+            "Left internal pudendal artery",
+            "Left inferior rectal artery"
+        ]
+    },
+    {
+        "id": 352,
+        "subject": "Left seminal vesicle",
+        "blood_path": [
+            "Aorta",
+            "Systemic arterial tree of male human body",
+            "Left common iliac artery",
+            "Left internal iliac artery",
+            "Anterior division of left internal iliac artery",
+            "Left inferior vesical artery"
+        ]
+    },
+    {
+        "id": 353,
+        "subject": "Left seminal vesicle",
+        "blood_path": [
+            "Aorta",
+            "Systemic arterial tree of male human body",
+            "Left common iliac artery",
+            "Left internal iliac artery",
+            "Anterior division of left internal iliac artery",
+            "Left inferior vesical artery",
+            "Seminal vesicle part of left inferior vesical artery"
+        ]
+    },
+    {
+        "id": 354,
+        "subject": "Right ovary",
+        "blood_path": [
+            "Aorta",
+            "Trunk of right ovarian artery",
+            "Right ovarian artery"
+        ]
+    },
+    {
+        "id": 355,
+        "subject": "Seminal vesicle",
+        "blood_path": [
+            "Aorta",
+            "Systemic arterial tree of female human body",
+            "Common iliac artery",
+            "Internal iliac artery",
+            "Anterior division of internal iliac artery",
+            "Inferior vesical artery"
+        ]
+    },
+    {
+        "id": 356,
+        "subject": "Seminal vesicle",
+        "blood_path": [
+            "Aorta",
+            "Systemic arterial tree of female human body",
+            "Common iliac artery",
+            "Internal iliac artery",
+            "Anterior division of internal iliac artery",
+            "Inferior vesical artery",
+            "Seminal vesicle part of inferior vesical artery"
+        ]
+    },
+    {
+        "id": 357,
+        "subject": "Tuber cinereum",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Left common carotid artery",
+            "Left internal carotid artery",
+            "Left middle cerebral artery",
+            "Cavernous branch of internal carotid artery",
+            "Posterior communicating artery",
+            "Artery of tuber cinereum"
+        ]
+    },
+    {
+        "id": 358,
+        "subject": "Tuber cinereum",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Left common carotid artery",
+            "Left internal carotid artery",
+            "Left middle cerebral artery",
+            "Cavernous branch of internal carotid artery",
+            "Anterior choroidal artery",
+            "Branch of anterior choroidal artery to tuber cinereum"
+        ]
+    },
+    {
+        "id": 359,
+        "subject": "Cerebral crus",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left subclavian artery",
+            "Left subclavian artery",
+            "Left vertebral artery",
+            "Basilar artery",
+            "Posterior cerebral artery",
+            "Posterior choroidal artery",
+            "Posterior lateral choroidal artery"
+        ]
+    },
+    {
+        "id": 360,
+        "subject": "Cerebral crus",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Left common carotid artery",
+            "Left internal carotid artery",
+            "Left middle cerebral artery",
+            "Cavernous branch of internal carotid artery",
+            "Anterior choroidal artery",
+            "Branch of anterior choroidal artery to crus cerebri"
+        ]
+    },
+    {
+        "id": 361,
+        "subject": "Atrioventricular node",
+        "blood_path": [
+            "Aorta",
+            "Systemic arterial tree of male human body",
+            "Right coronary artery",
+            "Atrioventricular node branch of right coronary artery"
+        ]
+    },
+    {
+        "id": 362,
+        "subject": "Atrioventricular node",
+        "blood_path": [
+            "Aorta",
+            "Systemic arterial tree of male human body",
+            "Right coronary artery",
+            "Posterior atrial branch of right coronary artery"
+        ]
+    },
+    {
+        "id": 363,
+        "subject": "Left parotid gland",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Left common carotid artery",
+            "Left external carotid artery",
+            "Left superficial temporal artery",
+            "Parotid branch of left superficial temporal artery"
+        ]
+    },
+    {
+        "id": 364,
+        "subject": "Left parotid gland",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Left common carotid artery",
+            "Left external carotid artery",
+            "Left posterior auricular artery",
+            "Parotid branch of left posterior auricular artery"
+        ]
+    },
+    {
+        "id": 365,
+        "subject": "Left parotid gland",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Left common carotid artery",
+            "Left external carotid artery",
+            "Left superficial temporal artery",
+            "Left transverse facial artery",
+            "Parotid branch of left transverse facial artery"
+        ]
+    },
+    {
+        "id": 366,
+        "subject": "Straight gyrus",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Left common carotid artery",
+            "Left internal carotid artery",
+            "Left middle cerebral artery",
+            "Cavernous branch of internal carotid artery",
+            "Anterior cerebral artery",
+            "Callosomarginal artery",
+            "Anteromedial frontal branch of callosomarginal artery"
+        ]
+    },
+    {
+        "id": 367,
+        "subject": "Uncus",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Left common carotid artery",
+            "Left internal carotid artery",
+            "Left middle cerebral artery",
+            "Cavernous branch of internal carotid artery",
+            "Anterior choroidal artery",
+            "Uncal artery"
+        ]
+    },
+    {
+        "id": 368,
+        "subject": "Spinal cord",
+        "blood_path": [
+            "Aorta",
+            "Arch of aorta",
+            "Trunk of subclavian artery",
+            "Subclavian artery",
+            "Vertebral artery",
+            "Anterior spinal artery"
+        ]
+    },
+    {
+        "id": 369,
+        "subject": "Spinal cord",
+        "blood_path": [
+            "Aorta",
+            "Arch of aorta",
+            "Trunk of subclavian artery",
+            "Subclavian artery",
+            "Vertebral artery"
+        ]
+    },
+    {
+        "id": 370,
+        "subject": "Spinal cord",
+        "blood_path": [
+            "Aorta",
+            "Arch of aorta",
+            "Trunk of subclavian artery",
+            "Subclavian artery",
+            "Vertebral artery",
+            "Posterior inferior cerebellar artery",
+            "Posterior spinal artery"
+        ]
+    },
+    {
+        "id": 371,
+        "subject": "Ventral premammillary nucleus",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Left common carotid artery",
+            "Left internal carotid artery",
+            "Left middle cerebral artery",
+            "Cavernous branch of internal carotid artery",
+            "Posterior communicating artery",
+            "Mammillary artery"
+        ]
+    },
+    {
+        "id": 372,
+        "subject": "Lateral mammillary nucleus",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Left common carotid artery",
+            "Left internal carotid artery",
+            "Left middle cerebral artery",
+            "Cavernous branch of internal carotid artery",
+            "Posterior communicating artery",
+            "Mammillary artery"
+        ]
+    },
+    {
+        "id": 373,
+        "subject": "Mammillary peduncle",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Left common carotid artery",
+            "Left internal carotid artery",
+            "Left middle cerebral artery",
+            "Cavernous branch of internal carotid artery",
+            "Posterior communicating artery",
+            "Mammillary artery"
+        ]
+    },
+    {
+        "id": 374,
+        "subject": "Dorsal premammillary nucleus",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Left common carotid artery",
+            "Left internal carotid artery",
+            "Left middle cerebral artery",
+            "Cavernous branch of internal carotid artery",
+            "Posterior communicating artery",
+            "Mammillary artery"
+        ]
+    },
+    {
+        "id": 375,
+        "subject": "Supramammillary nucleus",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Left common carotid artery",
+            "Left internal carotid artery",
+            "Left middle cerebral artery",
+            "Cavernous branch of internal carotid artery",
+            "Posterior communicating artery",
+            "Mammillary artery"
+        ]
+    },
+    {
+        "id": 376,
+        "subject": "Tuberomammillary nucleus",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Left common carotid artery",
+            "Left internal carotid artery",
+            "Left middle cerebral artery",
+            "Cavernous branch of internal carotid artery",
+            "Posterior communicating artery",
+            "Mammillary artery"
+        ]
+    },
+    {
+        "id": 377,
+        "subject": "Mammillary princeps fasciculus",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Left common carotid artery",
+            "Left internal carotid artery",
+            "Left middle cerebral artery",
+            "Cavernous branch of internal carotid artery",
+            "Posterior communicating artery",
+            "Mammillary artery"
+        ]
+    },
+    {
+        "id": 378,
+        "subject": "Medial mammillary nucleus",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Left common carotid artery",
+            "Left internal carotid artery",
+            "Left middle cerebral artery",
+            "Cavernous branch of internal carotid artery",
+            "Posterior communicating artery",
+            "Mammillary artery"
+        ]
+    },
+    {
+        "id": 379,
+        "subject": "Lateral occipital gyrus",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left subclavian artery",
+            "Left subclavian artery",
+            "Left vertebral artery",
+            "Basilar artery",
+            "Posterior cerebral artery",
+            "Lateral occipital artery"
+        ]
+    },
+    {
+        "id": 380,
+        "subject": "Lateral occipital gyrus",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left subclavian artery",
+            "Left subclavian artery",
+            "Left vertebral artery",
+            "Basilar artery",
+            "Posterior cerebral artery",
+            "Medial occipital artery",
+            "Occipitotemporal branch of medial occipital artery"
+        ]
+    },
+    {
+        "id": 381,
+        "subject": "Posterior paracentral gyrus",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Left common carotid artery",
+            "Left internal carotid artery",
+            "Left middle cerebral artery",
+            "Cavernous branch of internal carotid artery",
+            "Anterior cerebral artery",
+            "Callosomarginal artery"
+        ]
+    },
+    {
+        "id": 382,
+        "subject": "Anterior paracentral gyrus",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Left common carotid artery",
+            "Left internal carotid artery",
+            "Left middle cerebral artery",
+            "Cavernous branch of internal carotid artery",
+            "Anterior cerebral artery",
+            "Callosomarginal artery"
+        ]
+    },
+    {
+        "id": 383,
+        "subject": "Paracentral lobule",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Left common carotid artery",
+            "Left internal carotid artery",
+            "Left middle cerebral artery",
+            "Cavernous branch of internal carotid artery",
+            "Anterior cerebral artery",
+            "Callosomarginal artery"
+        ]
+    },
+    {
+        "id": 384,
+        "subject": "Substantia nigra",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Left common carotid artery",
+            "Left internal carotid artery",
+            "Left middle cerebral artery",
+            "Cavernous branch of internal carotid artery",
+            "Anterior choroidal artery",
+            "Branch of anterior choroidal artery to substantia nigra"
+        ]
+    },
+    {
+        "id": 385,
+        "subject": "Substantia nigra",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left subclavian artery",
+            "Left subclavian artery",
+            "Left vertebral artery",
+            "Basilar artery",
+            "Posterior cerebral artery",
+            "Peduncular branch of posterior cerebral artery"
+        ]
+    },
+    {
+        "id": 386,
+        "subject": "Body of fornix of forebrain",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left subclavian artery",
+            "Left subclavian artery",
+            "Left vertebral artery",
+            "Basilar artery",
+            "Posterior cerebral artery",
+            "Posterior choroidal artery",
+            "Posterior lateral choroidal artery"
+        ]
+    },
+    {
+        "id": 387,
+        "subject": "Choroid plexus of cerebral hemisphere",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left subclavian artery",
+            "Left subclavian artery",
+            "Left vertebral artery",
+            "Basilar artery",
+            "Posterior cerebral artery",
+            "Posterior choroidal artery",
+            "Posterior medial choroidal artery"
+        ]
+    },
+    {
+        "id": 388,
+        "subject": "Choroid plexus of cerebral hemisphere",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left subclavian artery",
+            "Left subclavian artery",
+            "Left vertebral artery",
+            "Basilar artery",
+            "Posterior cerebral artery",
+            "Posterior choroidal artery",
+            "Posterior lateral choroidal artery"
+        ]
+    },
+    {
+        "id": 389,
+        "subject": "Choroid plexus of cerebral hemisphere",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Left common carotid artery",
+            "Left internal carotid artery",
+            "Left middle cerebral artery",
+            "Cavernous branch of internal carotid artery",
+            "Anterior choroidal artery",
+            "Branch of anterior choroidal artery to lateral ventricle"
+        ]
+    },
+    {
+        "id": 390,
+        "subject": "Retrolenticular part of internal capsule",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Left common carotid artery",
+            "Left internal carotid artery",
+            "Left middle cerebral artery",
+            "Cavernous branch of internal carotid artery",
+            "Anterior choroidal artery",
+            "Branch of anterior choroidal artery to retrolentiform limb of internal capsule"
+        ]
+    },
+    {
+        "id": 391,
+        "subject": "Lingual gyrus",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left subclavian artery",
+            "Left subclavian artery",
+            "Left vertebral artery",
+            "Basilar artery",
+            "Posterior cerebral artery",
+            "Medial occipital artery",
+            "Calcarine artery"
+        ]
+    },
+    {
+        "id": 392,
+        "subject": "Outflow part of right ventricle",
+        "blood_path": [
+            "Aorta",
+            "Systemic arterial tree of male human body",
+            "Right coronary artery",
+            "Conus branch of right coronary artery"
+        ]
+    },
+    {
+        "id": 393,
+        "subject": "Outflow part of right ventricle",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left coronary artery",
+            "Left coronary artery",
+            "Anterior interventricular branch of left coronary artery",
+            "Conus branch of anterior interventricular branch of left coronary artery"
+        ]
+    },
+    {
+        "id": 394,
+        "subject": "Right brachioradialis",
+        "blood_path": [
+            "Aorta",
+            "Trunk of brachiocephalic artery",
+            "Brachiocephalic artery",
+            "Right subclavian artery",
+            "Right radial artery",
+            "Right radial recurrent artery",
+            "Brachioradialis branch of right radial recurrent artery"
+        ]
+    },
+    {
+        "id": 395,
+        "subject": "Deferent duct",
+        "blood_path": [
+            "Aorta",
+            "Systemic arterial tree of female human body",
+            "Common iliac artery",
+            "Internal iliac artery",
+            "Anterior division of internal iliac artery",
+            "Inferior vesical artery",
+            "Ductus deferens part of inferior vesical artery"
+        ]
+    },
+    {
+        "id": 396,
+        "subject": "Deferent duct",
+        "blood_path": [
+            "Aorta",
+            "Systemic arterial tree of female human body",
+            "Common iliac artery",
+            "Internal iliac artery",
+            "Anterior division of internal iliac artery",
+            "Inferior vesical artery"
+        ]
+    },
+    {
+        "id": 397,
+        "subject": "Cerebral peduncle",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left subclavian artery",
+            "Left subclavian artery",
+            "Left vertebral artery",
+            "Basilar artery",
+            "Posterior cerebral artery",
+            "Peduncular branch of posterior cerebral artery"
+        ]
+    },
+    {
+        "id": 398,
+        "subject": "Midbrain tegmentum",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left subclavian artery",
+            "Left subclavian artery",
+            "Left vertebral artery",
+            "Basilar artery",
+            "Posterior cerebral artery",
+            "Peduncular branch of posterior cerebral artery"
+        ]
+    },
+    {
+        "id": 399,
+        "subject": "Anterior interventricular septum",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left coronary artery",
+            "Left coronary artery",
+            "Anterior interventricular branch of left coronary artery"
+        ]
+    },
+    {
+        "id": 400,
+        "subject": "Posterior limb of internal capsule",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Left common carotid artery",
+            "Left internal carotid artery",
+            "Left middle cerebral artery",
+            "Cavernous branch of internal carotid artery",
+            "Anterior choroidal artery",
+            "Branch of anterior choroidal artery to posterior limb of internal capsule"
+        ]
+    },
+    {
+        "id": 401,
+        "subject": "Male urethra",
+        "blood_path": [
+            "Aorta",
+            "Systemic arterial tree of male human body",
+            "Left common iliac artery",
+            "Left internal iliac artery",
+            "Anterior division of left internal iliac artery",
+            "Left internal pudendal artery",
+            "Left urethral artery"
+        ]
+    },
+    {
+        "id": 402,
+        "subject": "Male urethra",
+        "blood_path": [
+            "Aorta",
+            "Trunk of right common iliac artery",
+            "Right common iliac artery",
+            "Right internal iliac artery",
+            "Anterior division of right internal iliac artery",
+            "Right internal pudendal artery",
+            "Right urethral artery"
+        ]
+    },
+    {
+        "id": 403,
+        "subject": "Female urethra",
+        "blood_path": [
+            "Aorta",
+            "Trunk of right common iliac artery",
+            "Right common iliac artery",
+            "Right internal iliac artery",
+            "Anterior division of right internal iliac artery",
+            "Right internal pudendal artery",
+            "Right urethral artery"
+        ]
+    },
+    {
+        "id": 404,
+        "subject": "Female urethra",
+        "blood_path": [
+            "Aorta",
+            "Systemic arterial tree of male human body",
+            "Left common iliac artery",
+            "Left internal iliac artery",
+            "Anterior division of left internal iliac artery",
+            "Left internal pudendal artery",
+            "Left urethral artery"
+        ]
+    },
+    {
+        "id": 405,
+        "subject": "Nucleus of anterior commissure",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Left common carotid artery",
+            "Left internal carotid artery",
+            "Left anterior cerebral artery",
+            "Anterior communicating artery",
+            "Median commissural artery"
+        ]
+    },
+    {
+        "id": 406,
+        "subject": "Splenium of corpus callosum",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left subclavian artery",
+            "Left subclavian artery",
+            "Left vertebral artery",
+            "Basilar artery",
+            "Posterior cerebral artery",
+            "Medial occipital artery",
+            "Splenial artery"
+        ]
+    },
+    {
+        "id": 407,
+        "subject": "Optic radiation",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Left common carotid artery",
+            "Left internal carotid artery",
+            "Left middle cerebral artery",
+            "Cavernous branch of internal carotid artery",
+            "Anterior choroidal artery",
+            "Branch of anterior choroidal artery to optic radiation"
+        ]
+    },
+    {
+        "id": 408,
+        "subject": "Left side of lower lip",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Left common carotid artery",
+            "Left external carotid artery",
+            "Left facial artery",
+            "Left inferior labial artery"
+        ]
+    },
+    {
+        "id": 409,
+        "subject": "Triangular septal nucleus",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Left common carotid artery",
+            "Left internal carotid artery",
+            "Left anterior cerebral artery",
+            "Anterior communicating artery",
+            "Median callosal artery"
+        ]
+    },
+    {
+        "id": 410,
+        "subject": "Precommissural septal nucleus",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Left common carotid artery",
+            "Left internal carotid artery",
+            "Left anterior cerebral artery",
+            "Anterior communicating artery",
+            "Median callosal artery"
+        ]
+    },
+    {
+        "id": 411,
+        "subject": "Dorsal septal nucleus",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Left common carotid artery",
+            "Left internal carotid artery",
+            "Left anterior cerebral artery",
+            "Anterior communicating artery",
+            "Median callosal artery"
+        ]
+    },
+    {
+        "id": 412,
+        "subject": "Lateral septal nucleus",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Left common carotid artery",
+            "Left internal carotid artery",
+            "Left anterior cerebral artery",
+            "Anterior communicating artery",
+            "Median callosal artery"
+        ]
+    },
+    {
+        "id": 413,
+        "subject": "Corpus callosum",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Left common carotid artery",
+            "Left internal carotid artery",
+            "Left anterior cerebral artery",
+            "Anterior communicating artery",
+            "Median callosal artery"
+        ]
+    },
+    {
+        "id": 414,
+        "subject": "Septofimbrial nucleus",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Left common carotid artery",
+            "Left internal carotid artery",
+            "Left anterior cerebral artery",
+            "Anterior communicating artery",
+            "Median callosal artery"
+        ]
+    },
+    {
+        "id": 415,
+        "subject": "Medial septal nucleus",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Left common carotid artery",
+            "Left internal carotid artery",
+            "Left anterior cerebral artery",
+            "Anterior communicating artery",
+            "Median callosal artery"
+        ]
+    },
+    {
+        "id": 416,
+        "subject": "Right side of upper lip",
+        "blood_path": [
+            "Aorta",
+            "Trunk of brachiocephalic artery",
+            "Brachiocephalic artery",
+            "Right common carotid artery",
+            "Right external carotid artery",
+            "Right facial artery",
+            "Right superior labial artery",
+            "Right superior labial artery proper"
+        ]
+    },
+    {
+        "id": 417,
+        "subject": "Supraoptic nucleus",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Left common carotid artery",
+            "Left internal carotid artery",
+            "Left middle cerebral artery",
+            "Cavernous branch of internal carotid artery",
+            "Anterior cerebral artery",
+            "Supra-optic artery"
+        ]
+    },
+    {
+        "id": 418,
+        "subject": "Stem of right temporal lobe",
+        "blood_path": [
+            "Aorta",
+            "Trunk of brachiocephalic artery",
+            "Brachiocephalic artery",
+            "Right common carotid artery",
+            "Right internal carotid artery",
+            "Right anterior choroidal artery"
+        ]
+    },
+    {
+        "id": 419,
+        "subject": "Interventricular septum",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left coronary artery",
+            "Left coronary artery",
+            "Anterior interventricular branch of left coronary artery",
+            "Anterior branch of anterior interventricular branch of left coronary artery"
+        ]
+    },
+    {
+        "id": 420,
+        "subject": "Optic tract",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Left common carotid artery",
+            "Left internal carotid artery",
+            "Left middle cerebral artery",
+            "Cavernous branch of internal carotid artery",
+            "Anterior choroidal artery",
+            "Branch of anterior choroidal artery to optic tract"
+        ]
+    },
+    {
+        "id": 421,
+        "subject": "Pineal body",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left subclavian artery",
+            "Left subclavian artery",
+            "Left vertebral artery",
+            "Basilar artery",
+            "Posterior cerebral artery",
+            "Posterior choroidal artery",
+            "Posterior medial choroidal artery"
+        ]
+    },
+    {
+        "id": 422,
+        "subject": "Suprachiasmatic nucleus",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Left common carotid artery",
+            "Left internal carotid artery",
+            "Left anterior cerebral artery",
+            "Anterior communicating artery",
+            "Suprachiasmatic artery"
+        ]
+    },
+    {
+        "id": 423,
+        "subject": "Anterior papillary muscle of right ventricle",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left coronary artery",
+            "Left coronary artery",
+            "Anterior interventricular branch of left coronary artery",
+            "Right anterior branch of anterior interventricular branch of left coronary artery"
+        ]
+    },
+    {
+        "id": 424,
+        "subject": "Amygdala",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left common carotid artery",
+            "Left common carotid artery",
+            "Left internal carotid artery",
+            "Left middle cerebral artery",
+            "Cavernous branch of internal carotid artery",
+            "Anterior choroidal artery",
+            "Branch of anterior choroidal artery to amygdala"
+        ]
+    },
+    {
+        "id": 425,
+        "subject": "Superior colliculus",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left subclavian artery",
+            "Left subclavian artery",
+            "Left vertebral artery",
+            "Basilar artery",
+            "Posterior cerebral artery",
+            "Collicular artery"
+        ]
+    },
+    {
+        "id": 426,
+        "subject": "Inferior colliculus",
+        "blood_path": [
+            "Aorta",
+            "Trunk of left subclavian artery",
+            "Left subclavian artery",
+            "Left vertebral artery",
+            "Basilar artery",
+            "Posterior cerebral artery",
+            "Collicular artery"
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+{% extends 'layout.html' %}
+
+{% block body %}
+    <h1>{{ question.subject }}</h1>
+    <p>Please choose the correct path of a red blood cell from the left ventricle to the {{ question.subject.lower() }}:</p>
+    <div>
+        <ul class="list-group">
+            {% for option in question.randomized_options %}
+                <li class="list-group-item radio">
+                    <label ><input type="radio" name="radioAnswer" onclick="myOtherFunction()" required>  {{ " -> ".join(option).lower() }}</label>
+                    <p class="switch-me-on" style="display:none">{% if option == question.blood_path %}
+                        This answer is correct.
+                        {% else %}
+                        This answer is incorrect.
+                        {% for wrong in question.wrong_paths %}
+                        {% if option == wrong.blood_path %}
+                         This is actually the path to {{ wrong.subject.lower() }}.
+                        {% endif %}
+                        {% endfor %}
+                        {% endif %}</p>
+                </li>
+            {% endfor %}
+        </ul>
+    </div>
+    <div>
+        <button type="button" id="buttony" class="btn btn-default btn-lg" onclick="myFunction()" disabled>Submit</button>
+    </div>
+    <script>
+function myFunction() {
+    var x = document.getElementsByClassName("switch-me-on");
+    for (var i = 0; i < x.length; i++) {
+        if (x[i].style.display === "none") {
+            x[i].style.display = "block";
+        } else {
+            x[i].style.display = "none";
+        }
+    }
+}
+function myOtherFunction() {
+    var x = document.getElementById("buttony");
+    if (x.disabled === true) {
+        x.disabled = false;
+    }
+}
+    </script>
+{% endblock %}
