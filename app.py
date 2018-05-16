@@ -1,6 +1,5 @@
-from flask import Flask, render_template, flash, redirect, url_for
+from flask import Flask, render_template
 import data
-from wtforms import Form, RadioField
 
 app = Flask(__name__)
 
@@ -23,14 +22,6 @@ def questions():
 @app.route('/question/<string:q_id>/')
 def question(q_id):
     return render_template('question.html', question=data.get_question_by_id(q_id))
-
-
-class AnswerForm(Form):
-    answer_1 = RadioField
-    answer_2 = RadioField
-    answer_3 = RadioField
-    answer_4 = RadioField
-    answer_5 = RadioField
 
 
 if __name__ == '__main__':
