@@ -2,7 +2,19 @@
 
 {% block body %}
     <h1>{{ question.subject }}</h1>
-    <p>Please choose the correct path of a red blood cell from the chamber of the left ventricle to the <u>{{ question.subject.lower() }}</u>:</p>
+    <p>
+        {% set stem_id = range(4)|random %}
+        {% if stem_id == 0 %}
+            Imagine that you are a red blood cell speaking to another red blood cell. Choose the best directions for your friend
+        {% elif stem_id == 1 %}
+            Choose the physiologic path of blood
+        {% elif stem_id == 2 %}
+            Please select the path of a red blood cell
+        {% elif stem_id == 3 %}
+            Describe the path of normal blood flow
+        {% endif %}
+        from the chamber of the left ventricle to the <u>{{ question.subject.lower() }}</u>:
+    </p>
     <div>
         <ul class="list-group">
             {% for option in question.randomized_options %}
