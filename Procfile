@@ -1,1 +1,1 @@
-app:app --log-file=-
+web: python3 app.py
