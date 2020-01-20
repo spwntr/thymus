@@ -3,8 +3,8 @@ import logging
 import random
 from sys import stdout
 
-from neo4j.util import watch
-from neo4j.v1 import GraphDatabase
+from neobolt.diagnostics import watch
+from neo4j import GraphDatabase
 
 UNQUERYABLE = ['Left ventricle', 'Right ventricle', 'Right adrenal gland', 'Left adrenal gland', 'Ureter', 'Esophagus',
                'Myocardium of left atrium', 'Myocardium of right atrium', 'Myocardium of right ventricle',
