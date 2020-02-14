@@ -35,6 +35,9 @@
     </div>
     <div>
         <button type="button" id="buttony" class="btn btn-outline-secondary btn-lg" onclick="myFunction()" disabled>Submit</button>
+        <form action="/random" method="get" id="next-question" class="switch-me-on btn btn-outline-secondary btn-lg" style="display:none" >
+            <button type="submit" >Next</button>
+        </form>
     </div>
     <script>
 function myFunction() {
@@ -46,6 +49,10 @@ function myFunction() {
             x[i].style.display = "none";
         }
     }
+    var x = document.getElementById("buttony");
+    x.style.display = "none"
+    var x = document.getElementById("next-question");
+    x.style.display = "block"
 }
 function myOtherFunction() {
     var x = document.getElementById("buttony");
